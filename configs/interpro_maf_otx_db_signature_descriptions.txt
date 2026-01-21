@@ -1,0 +1,11 @@
+CDD	cd14697	bZIP_Maf	-
+CDD	cd14717	bZIP_Maf_small	-
+CDD	cd14718	bZIP_Maf_large	-
+FunFam	G3DSA:1.20.5.170:FF:000016	MAF bZIP transcription factor	-
+PANTHER	PTHR10129	TRANSCRIPTION FACTOR MAF	IPR024874
+Pfam	PF03131	bZIP Maf transcription factor	IPR004826
+Pfam	PF03529	Otx1 transcription factor	IPR013851
+Pfam	PF08383	Maf N-terminal region	IPR013592
+PRINTS	PR01255	Otx transcription factor signature	IPR003025
+PRINTS	PR01256	Otx1 transcription factor signature	IPR003026
+PRINTS	PR01257	Otx2 transcription factor signature	IPR003022

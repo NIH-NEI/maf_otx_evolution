@@ -1,0 +1,14 @@
+OrganismColor	OrganismShortColor	SuggestedName	HexCode	HexCode2
+Nonchordates	Nonchordates	Dark Violet	#3D004B	#3D004B
+Protochordates	Protochordates	Indigo	#D2C74F	#481F7D
+Agnathans (hagfish and lampreys)	Agnathans	Deep Blue	#481F7D	#2C3E9F
+Cartilaginous fishes	Cartilaginous	Royal Blue	#F2D963	#2B65B5
+Non-teleost ray-finned fishes	Ray-finned excl teleosts	Sky Blue	#2C3E9F	#3E95CD
+Teleost ray-finned fishes	Teleosts	Emerald Green	#F4A45A	#59BE82
+Lobe-finned fishes	Lobe-finned	Lime Green	#99C54F	#99C54F
+Amphibians	Amphibians	Yellow-Green	#2B65B5	#D2C74F
+Squamata (lizards and snakes)	Squamata	Pale Green	#E76F51	#F2D963
+Turtles	Turtles	Gold	#3E95CD	#F4A45A
+Crocodiles	Crocodiles	Orange	#B33939	#E76F51
+Birds	Birds	Deep Red	#59BE82	#B33939
+Mammals	Mammals	Maroon	#7C001C	#7C001C

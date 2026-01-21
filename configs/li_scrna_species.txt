@@ -1,0 +1,25 @@
+CommonName	ShortName	ScientificName	Age	Sex	GenomeAssembly
+Axolotl	axolotl	Ambystoma mexicanum	1y	F	AmbMex60DD
+Budgerigar	budgerigar	Melopsittacus undulatus	6m	F	bMelUnd1.mat.Z
+Canary	canary	Serinus canaria	1y	M	serCan2020
+Cat	cat	Felis catus	1.5y	M	F.catus_Fca126_mat1.0
+Cavy	cavy	Cavia porcellus	10w	F	Cavpor3.0
+Chicken	chicken	Gallus gallus domesticus	6m	F	bGalGal1.mat.broiler.GRCg7b
+Chipmuck	chipmuck	Tamias sibiricus	4m	F	ASM2559416v1
+Dog	dog	Canis lupus familiaris	2.5y	M	UU_Cfam_GSD_1.0
+Duck	duck	Anas platyrhynchos	6m	M	ZJU1.0
+Ferret	ferret	Mustela putorius furo	1y	M	ASM1176430v1.1
+Gerbillinae	gerbillinae	Meriones unguiculatus	14w	F	Bangor_MerUng_6.1
+Grass carp	grasscarp	Ctenopharyngodon idella	4y	F	HZGC01
+Hamster	hamster	Mesocricetus auratus	8w	F	BCM_Maur_2.0
+Hedgehog	hedgehog	Atelerix algirus	6m	M	mEriEur2.1
+Human	human	Homo sapiens	18y	M	GRCh38.p14
+Lizard	lizard	Pogona vitticeps	1y	M	pvi1.1
+Monkey	monkey	Macaca fascicularis	4y	M	MFA1912RKSv2
+Mouse	mouse	Mus musculus	8w	F	GRCm39
+Pig	pig	Sus scrofa	6w	M	Sscrofa11.1
+Rat	rat	Rattus norvegicus	8w	M	mRatBN7.2
+Snake	snake	Pantherophis guttatus	3y	F	CU_Pguttatus_1
+Snakehead	snakehead	Channa argus	4y	F	ASM1899790v1
+Tilapia	tilapia	Oreochromis mossambicus	6m	F	Oreochromis_mossambicus_EIV1
+Turtle	turtle	Trachemys scripta elegans	5y	M	CAS_Tse_1.0

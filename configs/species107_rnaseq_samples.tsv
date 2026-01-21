@@ -1,0 +1,220 @@
+SampleID	SampleShortID	SampleSubID	Source	RunType	OrganismID	NumberSamples	NNRL_LibraryID	SRA_BioProjectID	SRA_RunID	SRA_BioSampleID	SRA_ExperimentID	ReferencePaper	DOI
+Accipiter_cooperii_0	ACCO0	0	Mine	PE	Accipiter_cooperii	1	R42019-283						
+Accipiter_virgatus_0	ACVI0	0	SRA	PE	Accipiter_virgatus	1		PRJNA314290	SRR3203234	SAMN04531382	SRX1612738	NoReferencePaper	
+Aegolius_funereus_0	AEFU0	0	SRA	PE	Aegolius_funereus	1		PRJNA497817	SRR8083918	SAMN10266703	SRX4910960	Hoglund_Strandh_2019_OwlsLackUVsensitive	https://doi.org/10.1016/j.visres.2019.02.005
+Aegypius_monachus_0	AEMO0	0	SRA	PE	Aegypius_monachus	1		PRJNA314290	SRR3203236	SAMN04531383	SRX1612739	NoReferencePaper	
+Alatina_alata_0	ALAL0	0	SRA	PE	Alatina_alata	1		PRJNA312373	SRR3278480	SAMN04569896	SRX1652825	LewisAmes_Collins_2016_NewTranscriptomeTranscriptome	https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2944-3
+Alligator_mississippiensis_0	ALMI0	0	SRA	PE	Alligator_mississippiensis	2		PRJNA159843	SRR3208140	SAMN04528913	SRX1616877	StJohn_Ray_2012_SequencingThreeCrocodilian	https://doi.org/10.1186/gb-2012-13-1-415
+Alligator_mississippiensis_1	ALMI1	1	Mine	PE	Alligator_mississippiensis	2	R42019-250						
+Amia_calva_0	AMCA0	0	SRA	PE	Amia_calva	1		PRJNA292033	SRR2146931	SAMN03960124	SRX1134592	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Andrias_davidianus_0	ANDA0	0	SRA	PE	Andrias_davidianus	1		PRJNA350354	SRR4449169	SAMN05938515	SRX2267620	Geng_Xu_2017_ReferenceGeneSet	https://doi.org/10.1093/gigascience/gix006
+Anolis_carolinensis_0	ANCA0	0	Mine	PE	Anolis_carolinensis	4	R42019-242						
+Anolis_carolinensis_1	ANCA1	1	Mine	PE	Anolis_carolinensis	4	R42019-243						
+Anolis_carolinensis_2	ANCA2	2	Mine	PE	Anolis_carolinensis	4	R42019-241						
+Anolis_carolinensis_3	ANCA3	3	SRA	PE	Anolis_carolinensis	4		PRJNA554900	SRR9694548	SAMN12286935	SRX6452868	Schott_Chang_2019_EvolutionarySignaturesPhotoreceptor	doi:10.1111/evo.13810
+Aotus_nancymaae_0	AONA0	0	SRA	PE	Aotus_nancymaae	1		PRJNA280454	SRR1981991	SAMN03464295	SRX1000889	NoReferencePaper	
+Archocentrus_centrarchus_0	ARCE0	0	SRA	PE	Archocentrus_centrarchus	3		PRJEB32048	ERR3264108	SAMEA5552187	ERX3290752	Harer_Torres-Dowdall_2018_ConvergentPhenotypicEvolution	https://doi.org/10.1002/evl3.71
+Archocentrus_centrarchus_1	ARCE1	1	SRA	PE	Archocentrus_centrarchus	3		PRJEB32048	ERR3264147	SAMEA5552226	ERX3290791	Harer_Torres-Dowdall_2018_ConvergentPhenotypicEvolution	https://doi.org/10.1002/evl3.71
+Archocentrus_centrarchus_2	ARCE2	2	SRA	PE	Archocentrus_centrarchus	3		PRJEB32048	ERR3264123	SAMEA5552202	ERX3290767	Harer_Torres-Dowdall_2018_ConvergentPhenotypicEvolution	https://doi.org/10.1002/evl3.71
+Asio_flammeus_0	ASFL0	0	SRA	PE	Asio_flammeus	1		PRJNA497817	SRR8083917	SAMN10266704	SRX4910961	Hoglund_Strandh_2019_OwlsLackUVsensitive	https://doi.org/10.1016/j.visres.2019.02.005
+Asio_otus_0	ASOT0	0	SRA	PE	Asio_otus	2		PRJNA314290	SRR3203220	SAMN04531183	SRX1612722	NoReferencePaper	
+Asio_otus_1	ASOT1	1	SRA	PE	Asio_otus	2		PRJNA497817	SRR8083916	SAMN10266705	SRX4910962	Hoglund_Strandh_2019_OwlsLackUVsensitive	https://doi.org/10.1016/j.visres.2019.02.005
+Athene_noctua_0	ATNO0	0	SRA	PE	Athene_noctua	1		PRJNA314290	SRR3203242	SAMN04531386	SRX1612744	NoReferencePaper	
+Aulonocara_baenschi_0	AUBA0	0	SRA	SE	Aulonocara_baenschi	1		PRJNA551471	SRR9620879	SAMN12150411	SRX6383884	Sandkam_Carleton_2020_Tbx2aModulatesSwitching	https://doi.org/10.1093/molbev/msaa062
+Balaena_mysticetus_0	BAMY0	0	SRA	PE	Balaena_mysticetus	1		PRJNA194091	SRR1685417	SAMN03225712	SRX790350	Keane_DeMagalhaes_2015_InsightsEvolutionLongevity	https://doi.org/10.1016/j.celrep.2014.12.008
+Bos_taurus_0	BOTA0	0	Mine	PE	Bos_taurus	3	R42019-251						
+Bos_taurus_1	BOTA1	1	Mine	PE	Bos_taurus	3	R42019-252						
+Bos_taurus_2	BOTA2	2	Mine	PE	Bos_taurus	3	R42019-253						
+Branchiostoma_floridae_0	BRFL0	0	Mine	PE	Branchiostoma_floridae	3	R42019-298						
+Branchiostoma_floridae_1	BRFL1	1	Mine	PE	Branchiostoma_floridae	3	R42019-299						
+Branchiostoma_floridae_2	BRFL2	2	Mine	PE	Branchiostoma_floridae	3	R42019-300						
+Bubo_bubo_0	BUBU0	0	SRA	PE	Bubo_bubo	1		PRJNA314290	SRR3203225	SAMN04531374	SRX1612728	NoReferencePaper	
+Bubo_virginianus_0	BUVI0	0	Mine	PE	Bubo_virginianus	1	R42019-286						
+Butastur_indicus_0	BUIN0	0	SRA	PE	Butastur_indicus	1		PRJNA314290	SRR3203233	SAMN04531381	SRX1612736	NoReferencePaper	
+Buteo_jamaicensis_0	BUJA0	0	Mine	PE	Buteo_jamaicensis	1	R42019-285						
+Cairina_moschata_0	CAMO0	0	SRA	PE	Cairina_moschata	1		PRJNA419616	SRR6367500	SAMN08434997	SRX3462961	NoReferencePaper	
+Callithrix_jacchus_0	CAJA0	0	SRA	PE	Callithrix_jacchus	3		PRJDB9547	DRR220046	SAMD00213357	DRX210359	NoReferencePaper	
+Callithrix_jacchus_1	CAJA1	1	SRA	PE	Callithrix_jacchus	3		PRJNA397900	SRR5928356	SAMN07495412	SRX3088671	NoReferencePaper	
+Callithrix_jacchus_2	CAJA2	2	SRA	PE	Callithrix_jacchus	3		PRJNA397900	SRR5928353	SAMN07495419	SRX3088674	NoReferencePaper	
+Canis_familiaris_0	CAFA0	0	SRA	SE	Canis_familiaris	5		PRJNA382537	SRR5443381	SAMN06708674	SRX2732744	Sudharsan_Beltran_2017_InvolvementInnateImmune	https://doi.org/10.1038/s41598-017-18236-7
+Canis_familiaris_1	CAFA1	1	SRA	SE	Canis_familiaris	5		PRJNA382537	SRR5443379	SAMN06708667	SRX2732742	Sudharsan_Beltran_2017_InvolvementInnateImmune	https://doi.org/10.1038/s41598-017-18236-7
+Canis_familiaris_2	CAFA2	2	SRA	SE	Canis_familiaris	5		PRJNA382537	SRR5443380	SAMN06708675	SRX2732743	Sudharsan_Beltran_2017_InvolvementInnateImmune	https://doi.org/10.1038/s41598-017-18236-7
+Canis_familiaris_3	CAFA3	3	SRA	PE	Canis_familiaris	5		PRJNA327075	SRR3727711	SAMN05300665	SRX1884097	NoReferencePaper	
+Canis_familiaris_4	CAFA4	4	NNRL	SE	Canis_familiaris	5	R32012-175						
+Carcharhinus_amblyrhynchos_0	CAAM0	0	SRA	PE	Carcharhinus_amblyrhynchos	1		PRJNA292033	SRR2146929	SAMN03960122 	SRX1134590	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Chiloscyllium_punctatum_0	CHPU0	0	SRA	SE	Chiloscyllium_punctatum	3		PRJDB6260	DRR111741	SAMD00098952	DRX104808	NoReferencePaper	
+Chiloscyllium_punctatum_1	CHPU1	1	SRA	PE	Chiloscyllium_punctatum	3		PRJDB6260	DRR111719	SAMD00098931	DRX104786	NoReferencePaper	
+Chiloscyllium_punctatum_2	CHPU2	2	SRA	PE	Chiloscyllium_punctatum	3		PRJNA292033	SRR2146928	SAMN03960121	SRX1134589	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Ciona_intestinalis_0	CIIN0	0	Mine	PE	Ciona_intestinalis	1	R42019-297						
+Circus_melanoleucos_0	CIME0	0	SRA	PE	Circus_melanoleucos	1		PRJNA314290	SRR3203217	SAMN04531182	SRX1612720	NoReferencePaper	
+Columba_livia_0	COLI0	0	Mine	PE	Columba_livia	4	R42019-275						
+Columba_livia_1	COLI1	1	Mine	PE	Columba_livia	4	R42019-274						
+Columba_livia_2	COLI2	2	Mine	PE	Columba_livia	4	R42019-273						
+Columba_livia_3	COLI3	3	SRA	PE	Columba_livia	4		PRJNA167554	SRR5878856	SAMN07417937	SRX3046080	Shapiro_Wang_2013_GenomicDiversityEvolution	https://doi.org/10.1126/science.1230422
+Corvus_cornix_0	COCX0	0	SRA	PE	Corvus_cornix	3		PRJNA192205	SRR1928171	SAMN02997751	SRX967626	Poelstra_Wolf_2014_GenomicLandscapeUnderlying;Weissensteiner_Wolf_2017_CombinationShortreadLongread	10.1101/gr.215095.116;https://doi.org/10.1126/science.1253226
+Corvus_cornix_1	COCX1	1	SRA	PE	Corvus_cornix	3		PRJNA192205	SRR2107367	SAMN03890353	SRX1101160	Poelstra_Wolf_2014_GenomicLandscapeUnderlying;Weissensteiner_Wolf_2017_CombinationShortreadLongread	10.1101/gr.215095.116;https://doi.org/10.1126/science.1253226
+Corvus_cornix_2	COCX2	2	SRA	PE	Corvus_cornix	3		PRJNA192205	SRR1947388	SAMN02997747	SRX973953	Poelstra_Wolf_2014_GenomicLandscapeUnderlying;Weissensteiner_Wolf_2017_CombinationShortreadLongread	10.1101/gr.215095.116;https://doi.org/10.1126/science.1253226
+Corvus_corone_0	COCR0	0	SRA	PE	Corvus_corone	3		PRJNA192205	SRR2107343	SAMN03890349	SRX1101125	Poelstra_Wolf_2014_GenomicLandscapeUnderlying;Weissensteiner_Wolf_2017_CombinationShortreadLongread	10.1101/gr.215095.116;https://doi.org/10.1126/science.1253226
+Corvus_corone_1	COCR1	1	SRA	PE	Corvus_corone	3		PRJNA192205	SRR2106782	SAMN03890330	SRX1100650	Poelstra_Wolf_2014_GenomicLandscapeUnderlying;Weissensteiner_Wolf_2017_CombinationShortreadLongread	10.1101/gr.215095.116;https://doi.org/10.1126/science.1253226
+Corvus_corone_2	COCR2	2	SRA	PE	Corvus_corone	3		PRJNA192205	SRR1947392	SAMN02997743	SRX973957	Poelstra_Wolf_2014_GenomicLandscapeUnderlying;Weissensteiner_Wolf_2017_CombinationShortreadLongread	10.1101/gr.215095.116;https://doi.org/10.1126/science.1253226
+Coturnix_japonica_0	COJA0	0	Mine	PE	Coturnix_japonica	3	R42019-248						
+Coturnix_japonica_1	COJA1	1	Mine	PE	Coturnix_japonica	3	R42019-249						
+Coturnix_japonica_2	COJA2	2	Mine	PE	Coturnix_japonica	3	R42019-247						
+Ctenophorus_decresii_0	CTDE0	0	SRA	PE	Ctenophorus_decresii	2		PRJNA478483	SRR7453168	SAMN09518505	SRX4323682	NoReferencePaper	
+Ctenophorus_decresii_1	CTDE1	1	SRA	PE	Ctenophorus_decresii	2		PRJNA478483	SRR7453174	SAMN09518506	SRX4323679	NoReferencePaper	
+Cynopterus_sphinx_0	CYSP0	0	SRA	PE	Cynopterus_sphinx	1		PRJNA255191	SRR1515274	SAMN02911653	SRX652877	NoReferencePaper	
+Danio_rerio_0	DARE0	0	NNRL	PE	Danio_rerio	3	R42017-233						
+Danio_rerio_1	DARE1	1	NNRL	PE	Danio_rerio	3	R42017-234						
+Danio_rerio_2	DARE2	2	NNRL	PE	Danio_rerio	3	R42017-235						
+Dromaius_novaehollandiae_0	DRNO0	0	SRA	PE	Dromaius_novaehollandiae	1		PRJNA437520	SRR6820423	SAMN08667385	SRX3777270	NoReferencePaper	
+Drosophila_melanogaster_0	DRME0	0	SRA	PE	Drosophila_melanogaster	4		PRJEB22205	ERR2617947	SAMEA4715952	ERX2634554	Leader_Dow_2018_FlyAtlas2New	https://doi.org/10.1093/nar/gkx976
+Drosophila_melanogaster_1	DRME1	1	SRA	PE	Drosophila_melanogaster	4		PRJEB22205	ERR2617945	SAMEA4715950	ERX2634552	Leader_Dow_2018_FlyAtlas2New	https://doi.org/10.1093/nar/gkx976
+Drosophila_melanogaster_2	DRME2	2	SRA	PE	Drosophila_melanogaster	4		PRJEB22205	ERR2617944	SAMEA4715949	ERX2634551	Leader_Dow_2018_FlyAtlas2New	https://doi.org/10.1093/nar/gkx976
+Drosophila_melanogaster_3	DRME3	3	SRA	PE	Drosophila_melanogaster	4		PRJEB22205	ERR2617946	SAMEA4715951	ERX2634553	Leader_Dow_2018_FlyAtlas2New	https://doi.org/10.1093/nar/gkx976
+Elanus_caeruleus_0	ELCA0	0	SRA	PE	Elanus_caeruleus	1		PRJNA314290	SRR3203227	SAMN04531378	SRX1612730	NoReferencePaper	
+Electrona_risso_0	ELRI0	0	SRA	PE	Electrona_risso	1		PRJNA421052	SRR8242442	SAMN10473266	SRX5060680	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Eonycteris_spelaea_0	EOSP0	0	SRA	PE	Eonycteris_spelaea	1		PRJNA255191	SRR1515272	SAMN02911651	SRX652846	NoReferencePaper	
+Eptatretus_cirrhatus_0	EPCI0	0	SRA	PE	Eptatretus_cirrhatus	5		PRJNA292033	SRR2146913	SAMN03960113	SRX1134574	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Eptatretus_cirrhatus_1	EPCI1	1	SRA	PE	Eptatretus_cirrhatus	5		PRJNA292033	SRR2146916	SAMN03960116	SRX1134577	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Eptatretus_cirrhatus_2	EPCI2	2	SRA	PE	Eptatretus_cirrhatus	5		PRJNA292033	SRR2146912	SAMN03960112	SRX1134573	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Eptatretus_cirrhatus_3	EPCI3	3	SRA	PE	Eptatretus_cirrhatus	5		PRJNA292033	SRR2146914	SAMN03960114	SRX1134575	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Eptatretus_cirrhatus_4	EPCI4	4	SRA	PE	Eptatretus_cirrhatus	5		PRJNA292033	SRR2146915	SAMN03960115	SRX1134576	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Equus_caballus_0	EQCA0	0	SRA	PE	Equus_caballus	2		PRJEB26787	ERR258420 (ERR2584206+ERR2584207)	SAMEA104728805	ERX2600987	Heath_Finno_2025_ComprehensiveAlleleSpecific	https://doi.org/10.1186/s12864-025-11240-6
+Equus_caballus_1	EQCA1	1	SRA	PE	Equus_caballus	2		PRJEB26787	ERR258415 (ERR2584154+ERR2584155)	SAMEA104728763	ERX2600986	Heath_Finno_2025_ComprehensiveAlleleSpecific	https://doi.org/10.1186/s12864-025-11240-6
+Esox_lucius_0	ESLU0	0	SRA	PE	Esox_lucius	2		PRJNA421052	SRR8242440	SAMN10473268	SRX5060682	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Esox_lucius_1	ESLU1	1	SRA	PE	Esox_lucius	2		PRJNA421052	SRR8242439	SAMN10473269	SRX5060683	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Euprymna_scolopes_0	EUSC0	0	SRA	PE	Euprymna_scolopes	3		PRJNA498343	SRR8159247	SAMN10290260	SRX4980115	Moriano-Gutierrez_McFall-Ngai_2019_CriticalSymbiontSignals	https://doi.org/10.1073/pnas.1819897116
+Euprymna_scolopes_1	EUSC1	1	SRA	PE	Euprymna_scolopes	3		PRJNA498343	SRR8159245	SAMN10290259	SRX4980117	Moriano-Gutierrez_McFall-Ngai_2019_CriticalSymbiontSignals	https://doi.org/10.1073/pnas.1819897116
+Euprymna_scolopes_2	EUSC2	2	SRA	PE	Euprymna_scolopes	3		PRJNA498343	SRR8159235	SAMN10290261	SRX4980127	Moriano-Gutierrez_McFall-Ngai_2019_CriticalSymbiontSignals	https://doi.org/10.1073/pnas.1819897116
+Falco_subbuteo_0	FASU0	0	SRA	PE	Falco_subbuteo	1		PRJNA314290	SRR3203238	SAMN04531384	SRX1612742	NoReferencePaper	
+Falco_tinnunculus_0	FATI0	0	SRA	PE	Falco_tinnunculus	1		PRJNA314290	SRR3203231	SAMN04531380	SRX1612734	NoReferencePaper	
+Felis_catus_0	FECA0	0	SRA	PE	Felis_catus	2		PRJNA312519	SRR3200457	SAMN04498538	SRX1610310	Visser_Merritt_2019_IdentificationQuantificationDomestic	https://doi.org/10.1111/jvp.12708
+Felis_catus_1	FECA1	1	SRA	PE	Felis_catus	2		PRJNA312519	SRR3200465	SAMN04498540	SRX1610318	Visser_Merritt_2019_IdentificationQuantificationDomestic	https://doi.org/10.1111/jvp.12708
+Gadus_morhua_0	GAMO0	0	SRA	PE	Gadus_morhua	1		PRJNA421052	SRR8242438	SAMN10473270	SRX5060684	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Gallus_gallus_0	GAGA0	0	NNRL	SE	Gallus_gallus	3	R22011-042						
+Gallus_gallus_1	GAGA1	1	NNRL	SE	Gallus_gallus	3	R22011-043						
+Gallus_gallus_2	GAGA2	2	NNRL	SE	Gallus_gallus	3	R22011-044						
+Gekko_gecko_0	GEGE0	0	SRA	PE	Gekko_gecko	1		PRJNA554900	SRR9694547	SAMN12286934	SRX6452869	Schott_Chang_2019_EvolutionarySignaturesPhotoreceptor	doi:10.1111/evo.13810
+Geotria_australis_0	GEAU0	0	SRA	PE	Geotria_australis	3		PRJNA292033	SRR2146917	SAMN03960117	SRX1134578	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Geotria_australis_1	GEAU1	1	SRA	PE	Geotria_australis	3		PRJNA292033	SRR2146918	SAMN03960118	SRX1134582	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Geotria_australis_2	GEAU2	2	SRA	PE	Geotria_australis	3		PRJNA292033	SRR2146919	SAMN03960119	SRX1134583	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Ginglymostoma_cirratum_0	GICI0	0	NNRL	PE	Ginglymostoma_cirratum	2	R42015-560						
+Ginglymostoma_cirratum_1	GICI1	1	NNRL	PE	Ginglymostoma_cirratum	2	R42015-561						
+Gymnothorax_saxicola_0	GYSA0	0	Mine	PE	Gymnothorax_saxicola	3	R42019-261						
+Gymnothorax_saxicola_1	GYSA1	1	Mine	PE	Gymnothorax_saxicola	3	R42019-262						
+Gymnothorax_saxicola_2	GYSA2	2	Mine	PE	Gymnothorax_saxicola	3	R42019-260						
+Habronattus_gilaensis_0	HAGI0	0	SRA	PE	Habronattus_gilaensis	1		PRJNA421554	SRR6381089	SAMN08144101	SRX3475035	NoReferencePaper	
+Hipposideros_armiger_0	HIAR0	0	SRA	PE	Hipposideros_armiger	1		PRJNA255191	SRR1515275	SAMN02911654	SRX652879	NoReferencePaper	
+Homo_sapiens_0	HOSA0	0	NNRL	PE	Homo_sapiens	6	R42017-002						
+Homo_sapiens_1	HOSA1	1	NNRL	PE	Homo_sapiens	6	R42017-004						
+Homo_sapiens_2	HOSA2	2	NNRL	PE	Homo_sapiens	6	R42017-007						
+Homo_sapiens_3	HOSA3	3	NNRL	PE	Homo_sapiens	6	R42017-010						
+Homo_sapiens_4	HOSA4	4	NNRL	PE	Homo_sapiens	6	R42017-011						
+Homo_sapiens_5	HOSA5	5	NNRL	PE	Homo_sapiens	6	R42017-012						
+Ictidomys_tridecemlineatus_0	ICTR0	0	SRA	PE	Ictidomys_tridecemlineatus	3		PRJNA335655	SRR3957258	SAMN05449769	SRX1981367	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Ictidomys_tridecemlineatus_1	ICTR1	1	SRA	PE	Ictidomys_tridecemlineatus	3		PRJNA335655	SRR3957257	SAMN05449770	SRX1981366	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Ictidomys_tridecemlineatus_2	ICTR2	2	SRA	PE	Ictidomys_tridecemlineatus	3		PRJNA335655	SRR3957259	SAMN05449768	SRX1981368	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Lepisosteus_oculatus_0	LEOC0	0	SRA	PE	Lepisosteus_oculatus	1		PRJNA247500	SRR1288 (SRR1288001+SRR1288144)	SAMN02781072	SRX543385	NoReferencePaper	
+Lepisosteus_platyrhincus_0	LEPL0	0	SRA	PE	Lepisosteus_platyrhincus	1		PRJNA292033	SRR2146933	SAMN03960125	SRX1134593	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Lepomis_macrochirus_0	LEMA0	0	Mine	PE	Lepomis_macrochirus	2	R42019-292						https://doi.org/10.1093/hmg/ddw268
+Lepomis_macrochirus_1	LEMA1	1	Mine	PE	Lepomis_macrochirus	2	R42019-293						https://doi.org/10.1093/hmg/ddw268
+Lethenteron_camtschaticum_0	LECA0	0	SRA	SE	Lethenteron_camtschaticum	2		PRJDB5164	DRR088844	SAMD00061199	DRX082667	NoReferencePaper	
+Lethenteron_camtschaticum_1	LECA1	1	SRA	PE	Lethenteron_camtschaticum	1		PRJNA349779	SRR5223763	SAMN05933006	SRX2532946	NoReferencePaper	
+Macaca_fascicularis_0	MAFA0	0	SRA	PE	Macaca_fascicularis	4		PRJNA335657	SRR3957244	SAMN05449783	SRX1981353	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Macaca_fascicularis_1	MAFA1	1	SRA	PE	Macaca_fascicularis	4		PRJNA335657	SRR3957245	SAMN05449782	SRX1981354	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Macaca_fascicularis_2	MAFA2	2	SRA	PE	Macaca_fascicularis	4		PRJNA335657	SRR3957243	SAMN05449784	SRX1981352	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Macaca_fascicularis_3	MAFA3	3	SRA	PE	Macaca_fascicularis	4		PRJNA335657	SRR3957242	SAMN05449785	SRX1981351	Mustafi_Palczewski_2016_TranscriptomeAnalysisReveals	https://doi.org/10.1093/hmg/ddw268
+Macaca_mulatta_0	MAMU0	0	NNRL	PE	Macaca_mulatta	3	R42015-026						
+Macaca_mulatta_1	MAMU1	1	NNRL	PE	Macaca_mulatta	3	R42015-027						
+Macaca_mulatta_2	MAMU2	2	NNRL	PE	Macaca_mulatta	3	R42015-028						
+Megascops_asio_0	MEAS0	0	Mine	PE	Megascops_asio	1	R42019-288						
+Melopsittacus_undulatus_0	MEUN0	0	Mine	PE	Melopsittacus_undulatus	3	R42019-279						
+Melopsittacus_undulatus_1	MEUN1	1	Mine	PE	Melopsittacus_undulatus	3	R42019-278						
+Melopsittacus_undulatus_2	MEUN2	2	Mine	PE	Melopsittacus_undulatus	3	R42019-277						
+Mizuhopecten_yessoensis_0	MIYE0	0	SRA	PE	Mizuhopecten_yessoensis	3		PRJNA259405	SRR4428736	SAMN05915721	SRX2250256	Wang_Bao_2017_ScallopGenomeProvides	https://doi.org/10.1038/s41559-017-0120
+Mizuhopecten_yessoensis_1	MIYE1	1	SRA	PE	Mizuhopecten_yessoensis	3		PRJNA259405	SRR4415812	SAMN05915721	SRX2238794	Wang_Bao_2017_ScallopGenomeProvides	https://doi.org/10.1038/s41559-017-0120
+Mizuhopecten_yessoensis_2	MIYE2	2	SRA	PE	Mizuhopecten_yessoensis	3		PRJNA259405	SRR4415811	SAMN05915721	SRX2238793	Wang_Bao_2017_ScallopGenomeProvides	https://doi.org/10.1038/s41559-017-0120
+Monodelphis_domestica_0	MODO0	0	SRA	PE	Monodelphis_domestica	1		PRJNA200320	SRR915908	SAMN02169186	SRX312221	NoReferencePaper	
+Mordacia_mordax_0	MOMO0	0	SRA	PE	Mordacia_mordax	1		PRJNA292033	SRR2146922	SAMN03960120	SRX1134586	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Motacilla_alba_0	MOAL0	0	SRA	PE	Motacilla_alba	1		PRJNA662706	SRR12641448	SAMN16132659	SRX9123506	Mitochondrial	
+Mus_musculus_0	MUMU0	0	NNRL	SE	Mus_musculus	3	R12009-001						
+Mus_musculus_1	MUMU1	1	NNRL	SE	Mus_musculus	3	R12010-008						
+Mus_musculus_2	MUMU2	2	NNRL	SE	Mus_musculus	3	R12010-009						
+Mus_musculus_3	MUMU3	3	NNRL	PE	Mus_musculus	3	AskMatthew						
+Mus_musculus_4	MUMU4	4	NNRL	PE	Mus_musculus	3	AskMatthew						
+Mus_musculus_5	MUMU5	5	NNRL	PE	Mus_musculus	3	AskMatthew						
+Myospalax_baileyi_0	MYBA0	0	SRA	PE	Myospalax_baileyi	1		PRJNA282349	SRR3036368	SAMN03568806	SRX1009939	Shao_Zhang_2015_GeneticAdaptationsPlateau	https://doi.org/10.1038/srep17262
+Myotis_laniger_0	MYLA0	0	SRA	PE	Myotis_laniger	1		PRJNA255191	SRR1515273	SAMN02911652	SRX652876	NoReferencePaper	
+Naja_naja_0	NANA0	0	SRA	SE	Naja_naja	1		PRJNA527614	SRR8754978	SAMN11168463	SRX5545701	Suryamohan_Seshagiri_2020_IndianCobraReference	https://doi.org/10.1038/s41588-019-0559-8
+Neotrygon_kuhlii_0	NEKU0	0	SRA	PE	Neotrygon_kuhlii	1		PRJNA292033	SRR2146930	SAMN03960123	SRX1134591	Lamb_Hunt_2016_EvolutionVertebratePhototransduction	https://doi.org/10.1093/molbev/msw095
+Nephrops_norvegicus_0	NENO0	0	SRA	PE	Nephrops_norvegicus	2		PRJNA293452	SRR2388448	SAMN04003013	SRX1257754	Sbragaglia_Aguzzi_2015_IdentificationCharacterizationDiel	https://doi.org/10.1371/journal.pone.0141893
+Nephrops_norvegicus_1	NENO1	1	SRA	PE	Nephrops_norvegicus	2		PRJNA293452	SRR2388552	SAMN04003013	SRX1238927	Sbragaglia_Aguzzi_2015_IdentificationCharacterizationDiel	https://doi.org/10.1371/journal.pone.0141893
+Octopus_bimaculoides_0	OCBI0	0	SRA	PE	Octopus_bimaculoides	1		PRJNA285380	SRR2047116	SAMN03744434	SRX1045414	Albertin_Rokhsar_2015_OctopusGenomeEvolution	https://doi.org/10.1038/nature14668
+Otus_bakkamoena_0	OTBA0	0	SRA	PE	Otus_bakkamoena	1		PRJNA314290	SRR3203243	SAMN04531388	SRX1612745	NoReferencePaper	
+Otus_scops_0	OTSC0	0	SRA	PE	Otus_scops	1		PRJNA314290	SRR3203230	SAMN04531379	SRX1612733	NoReferencePaper	
+Papio_anubis_0	PAAN0	0	SRA	SE	Papio_anubis	3		PRJNA386932	SRR5570468	SAMN07131844	SRX2829657	Mure_Panda_2018_DiurnalTranscriptomeAtlas	https://doi.org/10.1126/science.aao0318
+Papio_anubis_1	PAAN1	1	SRA	SE	Papio_anubis	3		PRJNA386932	SRR5570467	SAMN07131845	SRX2829656	Mure_Panda_2018_DiurnalTranscriptomeAtlas	https://doi.org/10.1126/science.aao0318
+Papio_anubis_2	PAAN2	2	SRA	SE	Papio_anubis	3		PRJNA386932	SRR5570466	SAMN07131846	SRX2829655	Mure_Panda_2018_DiurnalTranscriptomeAtlas	https://doi.org/10.1126/science.aao0318
+Papio_anubis_3	PAAN3	3	SRA	SE	Papio_anubis	3		PRJNA386932	SRR5570461	SAMN07131851	SRX2829650	Mure_Panda_2018_DiurnalTranscriptomeAtlas	https://doi.org/10.1126/science.aao0318
+Papio_anubis_4	PAAN4	4	SRA	SE	Papio_anubis	3		PRJNA386932	SRR5570462	SAMN07131850	SRX2829651	Mure_Panda_2018_DiurnalTranscriptomeAtlas	https://doi.org/10.1126/science.aao0318
+Papio_anubis_5	PAAN5	5	SRA	SE	Papio_anubis	3		PRJNA386932	SRR5570463	SAMN07131849	SRX2829652	Mure_Panda_2018_DiurnalTranscriptomeAtlas	https://doi.org/10.1126/science.aao0318
+Petromyzon_marinus_0	PEMA0	0	Mine	PE	Petromyzon_marinus	7	R42019-296						
+Petromyzon_marinus_1	PEMA1	1	Mine	PE	Petromyzon_marinus	7	R42019-294						
+Petromyzon_marinus_2	PEMA2	2	Mine	PE	Petromyzon_marinus	7	R42019-264						
+Petromyzon_marinus_3	PEMA3	3	Mine	PE	Petromyzon_marinus	7	R42019-295						
+Petromyzon_marinus_4	PEMA4	4	NNRL	PE	Petromyzon_marinus	7	R42015-030						
+Petromyzon_marinus_5	PEMA5	5	NNRL	PE	Petromyzon_marinus	7	R42015-031						
+Petromyzon_marinus_6	PEMA6	6	NNRL	PE	Petromyzon_marinus	7	R42015-032						
+Picus_canus_0	PICA0	0	SRA	PE	Picus_canus	1		PRJNA314290	SRR3203240	SAMN04531385	SRX1612743	NoReferencePaper	
+Plethodon_cinereus_0	PLCI0	0	Mine	PE	Plethodon_cinereus	3	R42019-255						
+Plethodon_cinereus_1	PLCI1	1	Mine	PE	Plethodon_cinereus	3	R42019-256						
+Plethodon_cinereus_2	PLCI2	2	Mine	PE	Plethodon_cinereus	3	R42019-254						
+Psammomys_obesus_0	PSOB0	0	Mine	PE	Psammomys_obesus	3	R42019-289						
+Psammomys_obesus_1	PSOB1	1	Mine	PE	Psammomys_obesus	3	R42019-290						
+Psammomys_obesus_2	PSOB2	2	Mine	PE	Psammomys_obesus	3	R42019-291						
+Rattus_norvegicus_0	RANO0	0	NNRL	SE	Rattus_norvegicus	3	R22011-039						
+Rattus_norvegicus_1	RANO1	1	NNRL	SE	Rattus_norvegicus	3	R22011-040						
+Rattus_norvegicus_2	RANO2	2	NNRL	SE	Rattus_norvegicus	3	R22011-041						
+Rhinecanthus_aculeatus_0	RHAC0	0	SRA	PE	Rhinecanthus_aculeatus	3		PRJNA421052	SRR8242402	SAMN10473296 	SRX5060720	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Rhinecanthus_aculeatus_1	RHAC1	1	SRA	PE	Rhinecanthus_aculeatus	3		PRJNA421052	SRR8242397	SAMN10473295	SRX5060725	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Rhinecanthus_aculeatus_2	RHAC2	2	SRA	PE	Rhinecanthus_aculeatus	3		PRJNA421052	SRR8242396	SAMN10473294	SRX5060726	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Scyliorhinus_torazame_0	SCTO0	0	SRA	SE	Scyliorhinus_torazame	2		PRJDB6260	DRR111795	SAMD00099004	DRX104862	NoReferencePaper	
+Scyliorhinus_torazame_1	SCTO1	1	SRA	SE	Scyliorhinus_torazame	2		PRJDB6260	DRR111817	SAMD00099026	DRX104884	NoReferencePaper	
+Sepioteuthis_sepioidea_0	SESE0	0	NNRL	PE	Sepioteuthis_sepioidea	1	R42015-025						
+Serinus_canaria_0	SECA0	0	Mine	PE	Serinus_canaria	3	R42019-244						
+Serinus_canaria_1	SECA1	1	Mine	PE	Serinus_canaria	3	R42019-245						
+Serinus_canaria_2	SECA2	2	Mine	PE	Serinus_canaria	3	R42019-246						
+Silurus_meridionalis_0	SIME0	0	SRA	PE	Silurus_meridionalis	1		PRJNA427243	SRR7224137	SAMN09269384	SRX4130681	NoReferencePaper	
+Sparus_aurata_0	SPAU0	0	SRA	PE	Sparus_aurata	1		PRJNA421052	SRR8242400	SAMN10473298	SRX5060722	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Strix_aluco_0	STAL0	0	SRA	PE	Strix_aluco	1		PRJNA497817	SRR8083919	SAMN10266702 	SRX4910959	Hoglund_Strandh_2019_OwlsLackUVsensitive	https://doi.org/10.1016/j.visres.2019.02.005
+Strix_varia_0	STVA0	0	Mine	PE	Strix_varia	1	R42019-287						
+Struthio_camelus_0	STCA0	0	SRA	PE	Struthio_camelus	1		PRJNA437520	SRR6820422	SAMN08667384	SRX3777271	NoReferencePaper	
+Sus_scrofa_0	SUSC0	0	SRA	PE	Sus_scrofa	3		PRJNA392949	SRR5803851	SAMN07315029	SRX2983153	Zhao_Liu_2021_MiningUnknownPorcine	https://doi.org/10.1016/j.gpb.2021.02.002
+Sus_scrofa_1	SUSC1	1	SRA	PE	Sus_scrofa	3		PRJNA392949	SRR5803849	SAMN07315029	SRX2983155	Zhao_Liu_2021_MiningUnknownPorcine	https://doi.org/10.1016/j.gpb.2021.02.002
+Sus_scrofa_2	SUSC2	2	SRA	PE	Sus_scrofa	3		PRJNA392949	SRR5803850	SAMN07315029	SRX2983154	Zhao_Liu_2021_MiningUnknownPorcine	https://doi.org/10.1016/j.gpb.2021.02.002
+Taeniopygia_guttata_0	TAGU0	0	Mine	PE	Taeniopygia_guttata	3	R42019-282						
+Taeniopygia_guttata_1	TAGU1	1	Mine	PE	Taeniopygia_guttata	3	R42019-280						
+Taeniopygia_guttata_2	TAGU2	2	Mine	PE	Taeniopygia_guttata	3	R42019-281						
+Taphozous_melanopogon_0	TAME0	0	SRA	PE	Taphozous_melanopogon	1		PRJNA255191	SRR1515271	SAMN02911655	SRX652795	NoReferencePaper	
+Thamnophis_sirtalis_0	THSI0	0	SRA	PE	Thamnophis_sirtalis	1		PRJNA432436	SRR6668169	SAMN08449337	SRX3644876	Schott_Chang_2018_ShiftsSelectivePressures	https://doi.org/10.1093/molbev/msy025
+Thunnus_albacares_0	THAL0	0	SRA	PE	Thunnus_albacares	1		PRJNA421052	SRR8242435	SAMN10473303	SRX5060687	Musilova_Salzburger_2019_VisionUsingMultiple	https://doi.org/10.1126/science.aav4632
+Trochilus_hybrid_0	TRHY0	0	Mine	PE	Trochilus_hybrid	3	R42019-269						
+Trochilus_hybrid_1	TRHY1	1	Mine	PE	Trochilus_hybrid	3	R42019-301						
+Trochilus_hybrid_2	TRHY2	2	Mine	PE	Trochilus_hybrid	3	R42019-302						
+Trochilus_polytmus_0	TRPO0	0	Mine	PE	Trochilus_polytmus	4	R42019-271						
+Trochilus_polytmus_1	TRPO1	1	Mine	PE	Trochilus_polytmus	4	R42019-270						
+Trochilus_polytmus_2	TRPO2	2	Mine	PE	Trochilus_polytmus	4	R42019-303						
+Trochilus_polytmus_3	TRPO3	3	Mine	PE	Trochilus_polytmus	4	R42019-266						
+Trochilus_scitulus_0	TRSC0	0	Mine	PE	Trochilus_scitulus	4	R42019-272						
+Trochilus_scitulus_1	TRSC1	1	Mine	PE	Trochilus_scitulus	4	R42019-268						
+Trochilus_scitulus_2	TRSC2	2	Mine	PE	Trochilus_scitulus	4	R42019-267						
+Trochilus_scitulus_3	TRSC3	3	Mine	PE	Trochilus_scitulus	4	R42019-265						
+Tyto_alba_0	TYAL0	0	Mine	PE	Tyto_alba	1	R42019-276						
+Tyto_longimembris_0	TYLO0	0	SRA	PE	Tyto_longimembris	1		PRJNA314290	SRR3203222	SAMN04531185	SRX1612725	NoReferencePaper	
+Upupa_epops_0	UPEP0	0	SRA	PE	Upupa_epops	1		PRJNA314290	SRR3203224	SAMN04531186	SRX1612727	NoReferencePaper	
+Xenopus_laevis_0	XELA0	0	SRA	SE	Xenopus_laevis	3		PRJNA311315	SRR3157346	SAMN04481654	SRX1568298	Whitworth_Watson_2017_TranslationalProfilingRetinal	https://doi.org/10.1016/j.ydbio.2016.06.003
+Xenopus_laevis_1	XELA1	1	SRA	SE	Xenopus_laevis	3		PRJNA311315	SRR3157356	SAMN04481664	SRX1568308	Whitworth_Watson_2017_TranslationalProfilingRetinal	https://doi.org/10.1016/j.ydbio.2016.06.003
+Xenopus_laevis_2	XELA2	2	SRA	SE	Xenopus_laevis	3		PRJNA311315	SRR3157347	SAMN04481655	SRX1568299	Whitworth_Watson_2017_TranslationalProfilingRetinal	https://doi.org/10.1016/j.ydbio.2016.06.003
+Xenopus_tropicalis_0	XETR0	0	Mine	PE	Xenopus_tropicalis	3	R42019-258						
+Xenopus_tropicalis_1	XETR1	1	Mine	PE	Xenopus_tropicalis	3	R42019-259						
+Xenopus_tropicalis_2	XETR2	2	Mine	PE	Xenopus_tropicalis	3	R42019-257						
