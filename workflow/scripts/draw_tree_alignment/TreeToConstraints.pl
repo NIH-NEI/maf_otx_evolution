@@ -21,6 +21,7 @@ sub Splits;
     my $nConstraints = 0;
     my $splits = Splits($tree, 'list');
     foreach my $split (@$splits) {
+        print STDERR "Split: [", join(", ", @$split), "]\n";
 	my @member = @$split;
 	my %member = map {$_ => 1} @member;
 	my @nonmember = grep {!exists $member{$_}} (keys %leafid);
@@ -68,7 +69,7 @@ sub Splits {
 	my @with0 = sort grep {!exists $split{$_}} @taxa;
 	my @with1 = sort grep {exists $split{$_}} @taxa;
 	
-	if (@with0>1 && @with1>1) {
+	if (@with0>=1 && @with1>=1) {
 	    my $key0 = join(",",@with0);
 	    my $key1 = join(",",@with1);
 	    if (!exists $splits{$key0} && !exists $splits{$key1}) {

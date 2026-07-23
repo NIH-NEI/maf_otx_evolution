@@ -4,32 +4,20 @@
 
 rule all:
     input:
-        "exports/curated_genes/draft_annotated_maf_otx.tsv",
-        "scratch/annotated_proteins/annotated_maf_otx.faa",
+        "scratch/grand_list/extra_cyclostomes.tsv"
 
 rule extract_annotated_maf_otx:
     input:
-        "scratch/orthofinder_annotated_mammals/results/Results_Dec01/Orthogroups/Orthogroups.tsv",
-        "scratch/orthofinder_annotated_birds/results/Results_Dec01/Orthogroups/Orthogroups.tsv",
-        "scratch/orthofinder_annotated_nonbird_sauropsids/results/Results_Dec01/Orthogroups/Orthogroups.tsv",
-        "scratch/orthofinder_annotated_fish_amphibians/results/Results_Dec01/Orthogroups/Orthogroups.tsv",
-        "scratch/orthofinder_annotated_teleosts/results/Results_Dec03/Orthogroups/Orthogroups.tsv",
-        "scratch/orthofinder_annotated_invertebrates/results/Results_Nov27/Orthogroups/Orthogroups.tsv",
+        "scratch/orthofinder_diverse/results/Results_Feb11/Orthogroups/Orthogroups.tsv",
     output:
-        "exports/curated_genes/draft_annotated_maf_otx.tsv",
+        "exports/curated_genes/draft_annotated_maf_otx_longformat_cyclostomes.tsv",
     script:
-        "scripts/annotate_genes/extract_maf_otx_from_orthofinder_on_annotated_proteins.py"
+        "scripts/annotate_genes/extract_cyclostomes_maf_otx_from_orthofinder_on_diverse_set.py"
 
-rule make_fasta_annotated_maf_otx:
+rule make_to_add_to_grand_list:
     input:
-        "exports/curated_genes/draft_annotated_maf_otx.tsv",
+        "exports/curated_genes/draft_annotated_maf_otx_longformat_cyclostomes.tsv",
     output:
-        "scratch/annotated_proteins/annotated_maf_otx.faa",
-        "scratch/annotated_proteins/annotated_vertebrate_maf_otx.faa",
-        "scratch/annotated_proteins/annotated_invertebrate_maf_otx.faa",
-
-# scripts:
-#   workflow/scripts/annotate_genes/generate_fasta_tsv_annotated_maf_otx_cyclostomes.py
-#   workflow/scripts/annotate_genes/extract_cyclostomes_maf_otx_from_orthofinder_on_diverse_set.py
-# output:
-#   scratch/annotated_proteins/annotated_maf_otx_cyclostomes.tsv
+        "scratch/grand_list/extra_cyclostomes.tsv"
+    script:
+        "scripts/annotate_genes/generate_fasta_tsv_annotated_maf_otx_cyclostomes.py"

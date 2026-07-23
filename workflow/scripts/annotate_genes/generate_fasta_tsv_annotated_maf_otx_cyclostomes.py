@@ -5,15 +5,8 @@ from Bio.SeqRecord import SeqRecord
 import pandas as pd
 
 orgs = (
-    pd.read_csv("configs/species1XX_table.tsv", sep = "\t")
-    [["OrganismShortName", "OrganismID", "OrganismColor", "IsVertebrate"]]
-    .merge(
-        (
-            pd.read_csv("configs/species173_annotations.tsv", sep = "\t")
-            [["OrganismShortName", "AnnotationSource"]]
-        ),
-        how  ="left",
-    )
+    pd.read_csv("configs/species181_table.tsv", sep = "\t")
+    [["OrganismShortName", "OrganismID", "OrganismColor", "IsVertebrate", "AnnotationSource"]]
 )
 print(orgs)
 
@@ -72,38 +65,3 @@ annotated_maf_otx = (
 
 print(annotated_maf_otx)
 annotated_maf_otx.to_csv("scratch/grand_list/extra_cyclostomes.tsv", sep ="\t", index = False)
-quit()
-
-def write_df_to_fasta(df, outfile):
-    records = []
-    for _, row in df.iterrows():
-        if pd.isna(row["ProteinSeq"]):
-            continue  # skip missing sequences
-
-        rec = SeqRecord(
-            Seq(row["ProteinSeq"]),
-            id=row["ProteinID"],
-            description=""   # no trailing description
-        )
-        records.append(rec)
-
-    SeqIO.write(records, outfile, "fasta")
-    print(f"Wrote {len(records)} sequences to {outfile}")
-
-    tsvfile = outfile.replace(".faa", ".tsv")
-    df[["ProteinID", "ProteinLen", "Remark", "ProteinSeq"]].to_csv(tsvfile, sep = "\t", index=False)
-
-write_df_to_fasta(
-    annotated_maf_otx,
-    "scratch/annotated_proteins/annotated_maf_otx.faa"
-)
-
-write_df_to_fasta(
-    annotated_maf_otx.query("IsVertebrate == 'Yes'"),
-    "scratch/annotated_proteins/annotated_vertebrate_maf_otx.faa"
-)
-
-write_df_to_fasta(
-    annotated_maf_otx.query("IsVertebrate == 'No'"),
-    "scratch/annotated_proteins/annotated_invertebrate_maf_otx.faa"
-)

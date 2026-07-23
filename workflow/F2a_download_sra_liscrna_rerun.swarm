@@ -1,9 +1,0 @@
-#SWARM --threads-per-process 96
-#SWARM --gb-per-process 3000
-#SWARM --partition largemem
-#SWARM --time 4:00:00
-#SWARM --sbatch '--mail-type=FAIL --gres=lscratch:3200'
-#SWARM --module sratoolkit,pigz
-#SWARM --logdir /data/pals2/maf_zenodo/liscrna_swarmlogs
-fasterq-dump SRR28879625 --split-files --threads 96 --temp /lscratch/$SLURM_JOBID --outdir /data/VisionDevo/LiRetinaScRNA/GSM8246590_SRR28879625 --progress; pigz -p 32 /data/VisionDevo/LiRetinaScRNA/GSM8246590_SRR28879625/*.fastq
-fasterq-dump SRR28879632 --split-files --threads 96 --temp /lscratch/$SLURM_JOBID --outdir /data/VisionDevo/LiRetinaScRNA/GSM8246610_SRR28879632 --progress; pigz -p 32 /data/VisionDevo/LiRetinaScRNA/GSM8246610_SRR28879632/*.fastq

@@ -74,18 +74,14 @@ fasta_obj <- read_validate_fasta(msa_fasta_file, tree_seq_nwk)
 name2taxa <- seq_info |> pull(taxa, ProteinID)
 names(fasta_obj) <- name2taxa[names(fasta_obj)]
 
+# Identify outgroup taxa name AFTER renaming
+outgroup_taxa <- unname(name2taxa[outgroups[1]])
+
+# Trim "outgroup-only residue" columns
+fasta_obj <- trim_outgroup_only_columns_dnabin(fasta_obj, outgroup_taxa)
+
 tree_seq_nwk$tip.label <- unname(name2taxa[tree_seq_nwk$tip.label])
 names(seq_info)
-
-p <- (
-    ggtree(tree_seq_nwk)
-    %<+% seq_info
-)
-
-current_offset <- 0
-
-current_offset <- current_offset + 1
-p <- mymsaplot(p, fasta_obj, offset=current_offset, width=3)
 
 dat1 <- (
   seq_info
@@ -98,6 +94,32 @@ dat1 <- (
   |> mutate(value = factor(value, levels = gene_groups))
 )
 
+dat2 <- (
+  seq_info
+  |> select(taxa, Status)
+  |> mutate(Status = ifelse(is.na(Status) | (Status == ""), "Undecided", Status))
+  |> pivot_longer(
+    cols = -taxa,              # all columns except label
+    names_to = "variable",      # heatmap column name
+    values_to = "value"         # cell value
+  )
+  |> mutate(value = factor(value, levels = statuses))
+)
+print(dat1)
+seq_info |> select(taxa, Status)
+print(dat2)
+
+
+p <- (
+    ggtree(tree_seq_nwk)
+    %<+% seq_info
+)
+
+current_offset <- 0
+
+current_offset <- current_offset + 1
+p <- mymsaplot(p, fasta_obj, offset=current_offset, width=3)
+
 p <- (
   p
   + new_scale_fill()
@@ -105,21 +127,10 @@ p <- (
     data    = dat1,
     geom    = geom_tile,
     mapping = aes(x = variable, y = taxa, fill = value),
-    offset  = 0.5,   # distance from tree to heatmap
-    pwidth  = 0.3    # relative width of the heatmap band
+    offset  = 0.01,   # distance from tree to heatmap
+    pwidth  = 0.04    # relative width of the heatmap band
   )
   + scale_fill_manual(values=gene_group_colors, name="Groups")
-)
-
-dat2 <- (
-  seq_info
-  |> select(taxa, Status)
-  |> pivot_longer(
-    cols = -taxa,              # all columns except label
-    names_to = "variable",      # heatmap column name
-    values_to = "value"         # cell value
-  )
-  |> mutate(value = factor(value, levels = statuses))
 )
 
 p <- (
@@ -129,14 +140,14 @@ p <- (
     data    = dat2,
     geom    = geom_tile,
     mapping = aes(x = variable, y = taxa, fill = value),
-    offset  = 0.05,   # distance from tree to heatmap
-    pwidth  = 0.3    # relative width of the heatmap band
+    offset  = 0.01,   # distance from tree to heatmap
+    pwidth  = 0.04    # relative width of the heatmap band
   )
     + scale_fill_manual(values=c("Final" = "green", "Undecided" = "red"), name="Status")
 )
 
 p <- (
-    p + geom_tiplab(aes(color = OrganismColor), size=3, align=TRUE, offset=0.1)
+    p + geom_tiplab(aes(color = OrganismColor), size=3, align=TRUE, offset=0.12)
     + scale_color_manual(values=pull(colors, HexCode2, OrganismColor), name="OrganismGroups")
 )
 

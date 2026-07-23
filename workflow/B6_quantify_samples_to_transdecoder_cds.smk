@@ -48,7 +48,7 @@ rule map_cds_to_gene:
 rule generate_samples_file:
     input:
         samps = "configs/species107_rnaseq_samples.tsv",
-        orgs = "configs/species173_table.tsv",
+        orgs = "configs/species181_table.tsv",
     output:
         RNASEQ_SAMPLES_INFO + "/{org}_samples.tsv",
     run:

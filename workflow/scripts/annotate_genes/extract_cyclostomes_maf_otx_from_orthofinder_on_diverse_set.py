@@ -1,13 +1,6 @@
 import pandas as pd
 import numpy as np
 
-orgs = (
-    pd.read_csv("configs/species181_table.tsv", sep = "\t")
-    [["OrganismShortName", "OrganismID", "OrganismColor"]]
-)
-
-print(orgs)
-
 def get_genes(ogs_path, ogs_dict, gene_group, species_group):
     oglist = ogs_dict[gene_group]
     df = (
@@ -64,27 +57,3 @@ maf_otx = (
 print(maf_otx)
 
 maf_otx.to_csv("exports/curated_genes/draft_annotated_maf_otx_longformat_cyclostomes.tsv", sep = "\t", index=False)
-quit()
-#
-#df = (
-#    maf_otx
-#    .assign(GeneGroup = lambda tdf: np.where(tdf.GeneGroup == "MAFL", "CMAF",
-#                                    np.where(tdf.GeneGroup == "MAFS", "MAFF", 
-#                                    np.where(tdf.GeneGroup == "OTX", "OTX1", tdf.GeneGroup))))
-#    .pivot_table(
-#        values = "ProteinID",
-#        index = ["OrganismShortName", "SpeciesGroup"],
-#        columns = "GeneGroup",
-#        aggfunc= ','.join,
-#    )
-#    .fillna("")
-#)
-#df["nMAFL"] = (df[["CMAF", "MAFA", "MAFB", "NRL"]] != "").sum(axis=1)
-#df["nMAFS"] = (df[["MAFF", "MAFG", "MAFK"]] != "").sum(axis=1)
-#df["nOTX"] = (df[["OTX1", "OTX2", "CRX"]] != "").sum(axis=1)
-#
-#print(df)
-#orgs = orgs.merge(df.reset_index(), how = "left")
-#print(orgs)
-#print(orgs.query("OrganismColor == 'Birds'"))
-#orgs.to_csv("exports/curated_genes/draft_annotated_maf_otx.tsv", sep = "\t")

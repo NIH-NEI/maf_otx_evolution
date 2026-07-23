@@ -27,4 +27,6 @@ rule make_fasta_annotated_maf_otx:
         "scratch/annotated_proteins/annotated_maf_otx.faa",
         "scratch/annotated_proteins/annotated_vertebrate_maf_otx.faa",
         "scratch/annotated_proteins/annotated_invertebrate_maf_otx.faa",
+    script:
+        "scripts/annotate_genes/generate_fasta_tsv_annotated_maf_otx.py"
 

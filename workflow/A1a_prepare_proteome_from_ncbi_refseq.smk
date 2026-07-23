@@ -237,7 +237,7 @@ rule map_gene_to_canonical_protein:
             .query("OrganismShortName == @wc.org")
             .local
         ),
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_from_ncbi.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_from_ncbi.py",
     params:
         acc = lambda wildcards, output: org2acc[wildcards.org],
     output:

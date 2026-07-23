@@ -68,7 +68,7 @@ rule create_pep_links_for_orthofinder:
 
 rule create_input_topology_for_orthofinder:
     input:
-        intree = "imports/trees/species177_topology_with_scientific_names.nwk",
+        intree = "imports/trees/species181_topology_with_scientific_names.nwk",
         rscrpt = "workflow/scripts/prepare_orthofinder/build_input_topology_for_orthofinder.R",
     output:
         outree = "scratch/orthofinder_{group}/topology_{group}.nwk",

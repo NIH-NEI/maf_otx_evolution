@@ -20,7 +20,7 @@ rule prepare_canonical_proteome_treeShrew:
     input:
         pep = "imports/genomes_annotations/treeShrew/TS_3.0.pep.fa.gz",
         gtf = "imports/genomes_annotations/treeShrew/TS_3.0.genomeannotation.gtf.gz",
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_for_treeShrew.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_for_treeShrew.py",
     output:
         faa = "scratch/canonical_peptides/treeShrew.faa",
         info = "scratch/canonical_peptides/treeShrew_info.tsv",
@@ -41,7 +41,7 @@ rule prepare_canonical_proteome_brownHagfish:
     input:
         pep = "imports/genomes_annotations/brownHagfish/Pata_ah2p.pep.fa",
         gtf = "imports/genomes_annotations/brownHagfish/Pata_MYAQb_rnm_ah2p.gtf",
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_for_brownHagfish.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_for_brownHagfish.py",
     output:
         faa = "scratch/canonical_peptides/brownHagfish.faa",
         info = "scratch/canonical_peptides/brownHagfish_info.tsv",
@@ -62,7 +62,7 @@ rule prepare_canonical_proteome_europeanBrookLamprey:
     input:
         pep = "imports/genomes_annotations/europeanBrookLamprey/kcLamPlan1.2.hap1.proteins.fa",
         gtf = "imports/genomes_annotations/europeanBrookLamprey/kcLamPlan1.2.hap1.gff",
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_for_europeanRiverLamprey.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_for_europeanRiverLamprey.py",
     output:
         faa = "scratch/canonical_peptides/europeanBrookLamprey.faa",
         info = "scratch/canonical_peptides/europeanBrookLamprey_info.tsv",
@@ -83,7 +83,7 @@ rule prepare_canonical_proteome_europeanRiverLamprey:
     input:
         pep = "imports/genomes_annotations/europeanRiverLamprey/kcLamFluv2.2.hap1.proteins.fa",
         gtf = "imports/genomes_annotations/europeanRiverLamprey/kcLamFluv2.2.hap1.gff",
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_for_europeanRiverLamprey.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_for_europeanRiverLamprey.py",
     output:
         faa = "scratch/canonical_peptides/europeanRiverLamprey.faa",
         info = "scratch/canonical_peptides/europeanRiverLamprey_info.tsv",
@@ -155,7 +155,7 @@ rule prepare_canonical_proteome_chipmunk:
     input:
         pep = "imports/genomes_annotations/chipmunk/Tamias.representive.translated_cds.faa",
         gff = "imports/genomes_annotations/chipmunk/Tamias.representive_fixed.gff",
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_for_chipmunk.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_for_chipmunk.py",
     output:
         faa = "scratch/canonical_peptides/chipmunk.faa",
         info = "scratch/canonical_peptides/chipmunk.tsv",
@@ -195,7 +195,7 @@ rule prepare_canonical_proteome_grassMouse:
     input:
         pep = "imports/genomes_annotations/grassMouse/Rhabdomys_pumilio.mouse_gene_name_final.pep.fa",
         gff = "imports/genomes_annotations/grassMouse/Rhabdomys_pumilio.mouse_gene_name_final_fixed_trimmed.gff",
-        py = "workflow/scripts/prepare_ncbi_proteins/get_canonical_isoform_for_grassMouse.py",
+        py = "workflow/scripts/compile_proteome/get_canonical_isoform_for_grassMouse.py",
     output:
         faa = "scratch/canonical_peptides/grassMouse.faa",
         info = "scratch/canonical_peptides/grassMouse_info.tsv",

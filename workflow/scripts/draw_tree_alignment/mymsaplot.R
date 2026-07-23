@@ -175,3 +175,110 @@ read_validate_fasta <- function(msa_fasta_file, tree_nwk) {
     x
 }
 
+
+trim_outgroup_only_columns <- function(aln, outgroup_taxa, gap_chars = c("-", ".")) {
+  # aln: named character vector of aligned sequences (same length)
+  # outgroup_taxa: single name in names(aln)
+  stopifnot(is.character(aln), length(outgroup_taxa) == 1)
+
+  if (!(outgroup_taxa %in% names(aln))) {
+    warning("Outgroup taxa '", outgroup_taxa, "' not found in alignment names; skipping trimming.")
+    return(aln)
+  }
+
+  # Split into a character matrix: rows=taxa, cols=alignment positions
+  m <- do.call(rbind, strsplit(aln, split = ""))
+  rownames(m) <- names(aln)
+
+  og_idx  <- which(rownames(m) == outgroup_taxa)
+  ing_idx <- setdiff(seq_len(nrow(m)), og_idx)
+
+  # Define gaps
+  is_gap <- m %in% gap_chars
+
+  # Columns where ALL ingroup are gaps
+  ing_all_gap <- colSums(!is_gap[ing_idx, , drop = FALSE]) == 0
+
+  # Columns where outgroup is NOT a gap
+  og_has_res <- !is_gap[og_idx, ]
+
+  # Drop columns that are gaps everywhere except outgroup
+  drop_cols <- ing_all_gap & og_has_res
+
+  if (any(drop_cols)) {
+    m <- m[, !drop_cols, drop = FALSE]
+  }
+
+  # Convert back to sequences
+  aln2 <- apply(m, 1, paste0, collapse = "")
+  names(aln2) <- rownames(m)
+  aln2
+}
+
+
+trim_outgroup_only_columns_dnabin <- function(aln_dnabin_list, outgroup_taxa, gap_chars = c("-", ".")) {
+  # aln_dnabin_list: named list, each element is a DNAbin vector (aligned; same length)
+  # outgroup_taxa: a single taxa name in names(aln_dnabin_list)
+
+  if (!is.list(aln_dnabin_list) || length(aln_dnabin_list) == 0) {
+    stop("Expected a non-empty list of DNAbin.")
+  }
+  if (is.null(names(aln_dnabin_list))) {
+    stop("DNAbin list must be named (taxa names).")
+  }
+  if (!(outgroup_taxa %in% names(aln_dnabin_list))) {
+    warning("Outgroup taxa '", outgroup_taxa, "' not found in alignment names; skipping trimming.")
+    return(aln_dnabin_list)
+  }
+
+  # Convert list(DNAbin) -> character matrix (rows=taxa, cols=sites)
+  # ape::as.character(DNAbin) returns a character vector like c("a","c","-","g",...)
+  m <- do.call(rbind, lapply(aln_dnabin_list, as.character))
+  rownames(m) <- names(aln_dnabin_list)
+
+  print(m[1:5,1:5])
+
+  og_idx  <- which(rownames(m) == outgroup_taxa)
+  ing_idx <- setdiff(seq_len(nrow(m)), og_idx)
+  print(cat("og_idx", og_idx))
+  print(cat("ing_idx", ing_idx))
+
+  print(dim(m))
+
+  # Identify gaps in character representation
+  is_gap <- matrix(
+    m %in% gap_chars,
+    nrow = nrow(m),
+    ncol = ncol(m),
+    dimnames = dimnames(m)
+  )
+
+  print(dim(is_gap))
+  print(is_gap[1:5,1:5])
+
+  # Columns where ALL ingroup are gaps
+  ing_all_gap <- colSums(!is_gap[ing_idx, , drop = FALSE]) == 0
+
+  # Columns where outgroup is NOT a gap
+  og_has_res <- !is_gap[og_idx, ]
+
+  # Drop columns that are gaps everywhere except outgroup
+  drop_cols <- ing_all_gap & og_has_res
+
+  if (any(drop_cols)) {
+    m <- m[, !drop_cols, drop = FALSE]
+  }
+
+  # Convert back to DNAbin and then back to list(DNAbin) to match input type
+  dnab_mat <- ape::as.DNAbin(m)   # DNAbin matrix
+  out_list <- lapply(seq_len(nrow(dnab_mat)), function(i) dnab_mat[i, , drop = TRUE])
+  names(out_list) <- rownames(dnab_mat)
+  print(str(aln_dnabin_list))
+  print(str(out_list))
+
+  out_list
+  ape::as.DNAbin(m)
+}
+
+
+

@@ -22,7 +22,6 @@ vertebrates = rnaseq.query("IsVertebrate == 'Yes'").iloc[0:1,:]
 invertebrates = rnaseq.query("IsVertebrate == 'No'")
 print(vertebrates.shape)
 
-print(glob.glob(TRANSDECODER_QUANT_TOP + "/Coturnix_japonica/*/quant.sf"))
 
 spgrp = {}
 for idx, row in rnaseq.iterrows():
@@ -33,7 +32,6 @@ rule all:
     input:
         "exports/curated_genes/draft_combined_maf_otx.tsv",
         "scratch/denovo_summary_combined/denovo_maf_otx_details.tsv",
-        TRANSDECODER_QUANT_TOP + "/Coturnix_japonica/quants_summary.tsv",
 
 rule consolidate_denovo_quantification:
     input:
@@ -174,7 +172,7 @@ rule merge_annotated_denovo:
 
         orgs = (
             pd.read_csv("configs/species181_table.tsv", sep = "\t")
-            [["OrganismShortName", "OrganismID", "OrganismColor", "bulkrna107"]]
+            [["OrganismShortName", "OrganismID", "OrganismColor", "bulkrna107", "AnnotationSource"]]
             .query("((AnnotationSource in @annotated_sources) or (bulkrna107 == 'Yes'))")
         )
         print(orgs)
