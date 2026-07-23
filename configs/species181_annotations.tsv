@@ -1,0 +1,182 @@
+OrganismShortName	OrganismID	SurrogateID	AnnotationSource	AnnotationRelease	AnnotationName	AnnotationComment
+hydra	Hydra_vulgaris		GCF	GCF_038396675.1	HydraT2T_AEP	
+flameJellyfish	Rhopilema_esculentum		GCF	GCF_013076305.1	ASM1307630v1	
+boxJellyfish	Alatina_alata	Rhopilema_esculentum	GCF Near	GCF_013076305.1	ASM1307630v1	
+scallop	Mizuhopecten_yessoensis		GCF	GCF_002113885.1	ASM211388v2	
+octopus	Octopus_bimaculoides		GCF	GCF_001194135.2	ASM119413v2	
+hawaiianSquid	Euprymna_scolopes	Octopus_bimaculoides	GCA	GCA_024364805.1	ASM2436480v1	
+reefSquid	Sepioteuthis_sepioidea	Octopus_bimaculoides	NoGenome			
+tardigrade	Paramacrobiotus_metropolitanus		GCF	GCF_019649055.1	Prichtersi_v1.0	
+waspSpider	Argiope_bruennichi		GCF	GCF_947563725.1	qqArgBrue1.1	
+spider	Habronattus_gilaensis	Argiope_bruennichi	NoGenome			
+norwayLobster	Nephrops_norvegicus	Homarus_americanus	GCF Near	GCF_018991925.1	GMGI_Hamer_2.0	
+americanLobster	Homarus_americanus		GCF	GCF_018991925.1	GMGI_Hamer_2.0	
+drosophila	Drosophila_melanogaster		GCF	GCF_000001215.4	Release_6_plus_ISO1_MT	
+plastererBee	Colletes_gigas		GCF	GCF_013123115.1	ASM1312311v1	
+acornWorm	Saccoglossus_kowalevskii		GCF	GCF_000003605.2	Skow_1.1	
+seaurchin	Lytechinus_variegatus		GCF	GCF_018143015.1	Lvar_3.0	
+echinoderm	Anneissia_japonica		GCF	GCF_011630105.1	ASM1163010v1	
+amphioxus	Branchiostoma_floridae		GCF	GCF_035083965.1	klBraLanc5.hap2	
+vaseTunicate	Ciona_intestinalis		GCF	GCF_000224145.3	KH	
+seaSquirt	Styela_clava		GCF	GCF_013122585.1	ASM1312258v2	
+atlanticHagfish	Myxine_glutinosa		GCF	GCF_040869285.1	UKY_Mglu_1.0	
+inshoreHagfish	Eptatretus_burgeri		Ensembl	GCA_000001405.14	Eburgeri_3.2	
+brownHagfish	Eptatretus_atami		Custom			
+broadgilledHagfish	Eptatretus_cirrhatus	Myxine_glutinosa	NoGenome			
+pouchedLamprey	Geotria_australis	Petromyzon_marinus	GCA	GCA_036362915.1	kcGeoAust1.1	
+shortheadLamprey	Mordacia_mordax	Petromyzon_marinus	GCA	GCA_036362905.1	kcMorMord1.1	
+seaLamprey	Petromyzon_marinus		GCF	GCF_048934315.1	UKy_Petmar_22M1.pri1.0	Orig papers used GCF_010993605.1_kPetMar1.pri and GCA_000148955.1_Pmarinus_7.0
+europeanRiverLamprey	Lampetra_fluviatilis		Custom			
+europeanBrookLamprey	Lampetra_planeri		Custom			
+fareasternBrookLamprey	Lethenteron_reissneri		GCF	GCF_015708825.1	ASM1570882v1	
+arcticLamprey	Lethenteron_camtschaticum	Lethenteron_reissneri	GCF Near	GCF_015708825.1	ASM1570882v1	
+bluespottedStingray	Neotrygon_kuhlii	Hemitrygon_akajei	GCF Near	GCF_048418815.1	sHemAka1.3	
+redStingray	Hemitrygon_akajei		GCF	GCF_048418815.1	sHemAka1.3	
+catshark	Scyliorhinus_torazame		GCF	GCF_047496885.1	sScyTor2.1	
+reefShark	Carcharhinus_amblyrhynchos	Scyliorhinus_torazame	GCF Near	GCF_030264375.1	sScyTor2.1	
+bambooShark	Chiloscyllium_punctatum		GCF	GCF_047496795.1	sChiPun1.3	
+nurseShark	Ginglymostoma_cirratum	Stegostoma_tigrinum	GCF Near	GCF_030684315.1	sSteTig4.hap1	
+zebraShark	Stegostoma_tigrinum		GCF	GCF_030684315.1	sSteTig4.hap1	
+whaleShark	Rhincodon_typus		GCF	GCF_021869965.1	sRhiTyp1.1	
+bowfin	Amia_calva	Lepisosteus_oculatus	GCF Near	GCF_040954835.1	fLepOcu1.hap2	
+spottedGar	Lepisosteus_oculatus		GCF	GCF_040954835.1	fLepOcu1.hap2	
+floridaGar	Lepisosteus_platyrhincus	Lepisosteus_oculatus	GCF Near	GCF_040954835.1	fLepOcu1.hap2	
+americanEel	Anguilla_rostrata		GCF	GCF_018555375.3	ASM1855537v3	
+eel	Gymnothorax_saxicola	Anguilla_rostrata	NoGenome			
+zebrafish	Danio_rerio		GCF	GCF_000002035.6	GRCz11	
+grassCarp	Ctenopharyngodon_idella		GCF	GCF_019924925.1	HZGC01	
+channelCatfish	Ictalurus_punctatus		GCF	GCF_001660625.3	Coco_2.0	
+yangtzeCatfish	Silurus_meridionalis		GCF	GCF_014805685.1	ASM1480568v1	
+piranha	Pygocentrus_nattereri		GCF	GCF_015220715.1	fPygNat1.pri	
+northernPike	Esox_lucius		GCF	GCF_011004845.1	fEsoLuc1.pri	
+lanternFish	Electrona_risso	Gadus_morhua	NoGenome			
+cod	Gadus_morhua		GCF	GCF_902167405.1	gadMor3.0	
+tuna	Thunnus_albacares		GCF	GCF_914725855.1	fThuAlb1.1	
+snakeheadFish	Channa_argus		GCF	GCF_033026475.1	Channa_argus_male_v1.0	Orig paper used ASM1899790v1
+cichlid	Archocentrus_centrarchus	Aulonocara_stuartgranti	GCF Near	GCF_007364275.1	fArcCen1	
+tilapia	Oreochromis_mossambicus	Aulonocara_stuartgranti	GCF Near	GCF_007364275.1	fArcCen1	
+flavescentPeacockFish	Aulonocara_stuartgranti		GCF	GCF_007364275.1	fArcCen1	
+yellowPeacockFish	Aulonocara_baenschi	Aulonocara_stuartgranti	GCF Near	GCF_007364275.1	fArcCen1	
+triggerfish	Rhinecanthus_aculeatus	Nelusetta_ayraudi	GCF Near	GCF_046127955.1	CSIRO-AGI_Nayr_v1	
+oceanJacket	Nelusetta_ayraudi		GCF	GCF_046127955.1	CSIRO-AGI_Nayr_v1	
+giltheadBream	Sparus_aurata		GCF	GCF_900880675.1	fSpaAur1.1	
+oldwife	Enoplosus_armatus		GCF	GCF_043641665.1	fEnoArm2.hap1	
+bluegill	Lepomis_macrochirus	Enoplosus_armatus	GCF Near	GCF_043641665.1	fEnoArm2.hap1	
+coelacanth	Latimeria_chalumnae		GCF	GCF_037176945.1	fLatCha1.pri	
+lungfish	Protopterus_annectens		GCF	GCF_019279795.1	PAN1.0	
+tinyCaecilian	Microcaecilia_unicolor		GCF	GCF_901765095.1	aMicUni1.1	
+twolinedCaecilian	Rhinatrema_bivittatum		GCF	GCF_901001135.1	aRhiBiv1.1	
+chineseSalamander	Andrias_davidianus	Ambystoma_mexicanum	GCF Near	GCF_040938575.1	UKY_AmexF1_1	
+axolotl	Ambystoma_mexicanum		GCF	GCF_040938575.1	UKY_AmexF1_1	Orig paper used AmbMex60DD
+redSalamander	Plethodon_cinereus	Ambystoma_mexicanum	GCF Near	GCF_040938575.1	UKY_AmexF1_1	
+himalayaFrog	Nanorana_parkeri		GCF	GCF_000935625.1	ASM93562v1	
+westernFrog	Xenopus_tropicalis		GCF	GCF_000004195.4	UCB_Xtro_10.0	
+africanFrog	Xenopus_laevis		GCF	GCF_017654675.1	Xenopus_laevis_v10.1	
+tokayGecko	Gekko_gecko	Gekko_japonicus	GCF Near	GCF_001447785.1	Gekko_japonicus_V1.1	
+japaneseGecko	Gekko_japonicus		GCF	GCF_001447785.1	Gekko_japonicus_V1.1	
+sandLizard	Lacerta_agilis		GCF	GCF_009819535.1	rLacAgi1.pri	
+tawnyDragon	Ctenophorus_decresii	Pogona_vitticeps	GCF Near	GCF_900067755.1	pvi1.1	
+beardedDragon	Pogona_vitticeps		GCF	GCF_900067755.1	pvi1.1	
+greenAnole	Anolis_carolinensis		GCF	GCF_035594765.1	rAnoCar3.1.pri	
+brownAnole	Anolis_sagrei		GCF	GCF_037176765.1	rAnoSag1.mat	Orig paper used GCF_025583915.1/AnoSag2.1
+python	Python_bivittatus		GCF	GCF_000186305.1	Python_molurus_bivittatus-5.0.2	
+groundBoa	Candoia_aspera		GCF	GCF_035149785.1	rCanAsp1.hap2	
+cobra	Naja_naja	Candoia_aspera	GCF Near			
+garterSnake	Thamnophis_sirtalis		GCF	GCF_001077635.1	Thamnophis_sirtalis-6.0	
+cornSnake	Pantherophis_guttatus		GCF	GCF_029531705.1	CU_Pguttatus_1	
+greenTurtle	Chelonia_mydas		GCF	GCF_015237465.2	rCheMyd1.pri.v2	
+redTurtle	Trachemys_scripta		GCF	GCF_013100865.1	CAS_Tse_1.0	
+americanAlligator	Alligator_mississippiensis		GCF	GCF_030867095.1	rAllMis1	
+chineseAlligator	Alligator_sinensis		GCF	GCF_000455745.1	ASM45574v1	
+emu	Dromaius_novaehollandiae		GCF	GCF_036370855.1	bDroNov1.hap1	Orig paper used GCF_003342905.1_droNov1
+ostrich	Struthio_camelus		GCF	GCF_040807025.1	bStrCam1.hap1	Orig paper used GCF_000698965.1_ASM69896v1
+mallardDuck	Anas_platyrhynchos		GCF	GCF_047663525.1	IASCAAS_PekinDuck_T2T	Orig paper used ZJU1.0
+muscovyDuck	Cairina_moschata	Anas_platyrhynchos	GCF Near			
+quail	Coturnix_japonica		GCF	GCF_001577835.2	Coturnix_japonica_2.1	
+chicken	Gallus_gallus		GCF	GCF_016699485.2	bGalGal1.mat.broiler.GRCg7b	Orig paper used GCF_000002315.4_Gallus_gallus-5.0
+sunangel	Heliangelus_exortis		GCF	GCF_036169615.1	bHelExo1.hap1	
+redStreamertail	Trochilus_polytmus	Heliangelus_exortis	NoGenome			
+blackStreamertail	Trochilus_scitulus	Heliangelus_exortis	NoGenome			
+hybridStreamertail	Trochilus_hybrid	Heliangelus_exortis	NoGenome			
+pigeon	Columba_livia		GCF	GCF_036013475.1	bColLiv1.pat.W.v2	Orig paper used GCF_000337935.1/Cliv_1.0
+kite	Elanus_caeruleus	Aquila_chrysaetos	GCF Near			
+goldenEagle	Aquila_chrysaetos		GCF	GCF_900496995.4	bAquChr1.4	
+vulture	Aegypius_monachus	Harpia_harpyja	GCF Near			
+harpyEagle	Harpia_harpyja		GCF	GCF_026419915.1	bHarHar1_primary_haplotype	
+harrier	Circus_melanoleucos	Astur_gentilis	GCF Near			
+greyfacedBuzzard	Butastur_indicus	Buteo_buteo	GCF Near			
+commonBuzzard	Buteo_buteo		GCF	GCF_964188355.1	bButBut1.hap1.1	
+redTailHawk	Buteo_jamaicensis	Buteo_buteo	GCF Near			
+gosHwak	Astur_gentilis		GCF	GCF_929443795.1	bAccGen1.1	
+coopersHawk	Accipiter_cooperii	Accipiter_nisus	Ensembl Near			
+besra	Accipiter_virgatus	Accipiter_nisus	Ensembl Near			
+sparrowHawk	Accipiter_nisus		Ensembl	GCA_004320145.1	Accipiter_nisus_ver1.0	
+barnOwl	Tyto_alba		GCF	GCF_018691265.1	T.alba_DEE_v4.0	
+grassOwl	Tyto_longimembris	Tyto_alba	GCF Near	GCF_018691265.1	T.alba_DEE_v4.0	
+borealOwl	Aegolius_funereus	Athene_noctua	GCF Near	GCF_965140245.1	bAthNoc1.hap1.1	
+littleOwl	Athene_noctua		GCF	GCF_965140245.1	bAthNoc1.hap1.1	
+orientalScopsOwl	Otus_sunia		Ensembl	GCA_010365825.1	OtuSun1.0	
+eurasianScopsOwl	Otus_scops	Otus_sunia	GCA	GCA_039877175.1	ASM3987717v1	
+indianScopsOwl	Otus_bakkamoena	Otus_sunia	NoGenome			
+shortearOwl	Asio_flammeus	Otus_sunia	NoGenome			
+longearOwl	Asio_otus	Otus_sunia	NoGenome			
+screechOwl	Megascops_asio	Otus_sunia	GCA	GCA_040967475.1	ASM4096747v1	
+barredOwl	Strix_varia	Strix_uralensis	GCF Near	GCF_047716275.1	bStrUra1	
+uralOwl	Strix_uralensis		GCF	GCF_047716275.1	bStrUra1	
+tawnyOwl	Strix_aluco		GCF	GCF_031877795.1	bStrAlu1.hap1	
+eagleOwl	Bubo_bubo		Ensembl	GCA_010303855.1	BubBub1.0	
+hornedOwl	Bubo_virginianus	Bubo_bubo	GCA	GCA_044758155.1	ASM4475815v1	
+mousebird	Colius_striatus		GCF	GCF_028858725.1	bColStr4.1.hap1	
+hoopoe	Upupa_epops	Colius_striatus	GCF Near			
+honeyguide	Indicator_indicator		GCF	GCF_027791375.1	UM_Iind_1.1	
+woodpecker	Picus_canus	Indicator_indicator	GCF Near			
+budgerigar	Melopsittacus_undulatus		GCF	GCF_012275295.1	bMelUnd1.mat.Z	
+commonKestrel	Falco_tinnunculus		Ensembl	GCA_010332995.1	FalTin1.0	
+peregrineFalcon	Falco_peregrinus		GCF	GCF_023634155.1	bFalPer1.pri	
+eurasianHobby	Falco_subbuteo	Falco_peregrinus	GCF Near			
+hawaiianCrow	Corvus_hawaiiensis		GCF	GCF_020740725.1	bCorHaw1.pri.cur	
+carrionCrow	Corvus_corone	Corvus_hawaiiensis	GCF Near			
+hoodedCrow	Corvus_cornix		GCF	GCF_000738735.6	ASM73873v6	
+whiteWagtail	Motacilla_alba		GCF	GCF_015832195.1	Motacilla_alba_V1.0_pri	
+canary	Serinus_canaria		GCF	GCF_022539315.1	serCan2020	
+zebrafinch	Taeniopygia_guttata		GCF	GCF_048771995.1	bTaeGut7.mat	Orig paper used GCF_003957565.2_bTaeGut1.4.pri
+platypus	Ornithorhynchus_anatinus		GCF	GCF_004115215.2	mOrnAna1.pri.v4	
+opossum	Monodelphis_domestica		GCF	GCF_027887165.1	mMonDom1.pri	Orig paper used GCA_000002295.1_ASM229v1
+europeanHedgehog	Erinaceus_europaeus		GCF	GCF_950295315.1	mEriEur2.1	
+africanHedgehog	Atelerix_algirus	Erinaceus_europaeus	GCF Near			
+sacwingedBat	Saccopteryx_bilineata		GCF	GCF_036850765.1	mSacBil1_pri_phased_curated	
+tombBat	Taphozous_melanopogon	Saccopteryx_bilineata	GCF Near			
+daubentonBat	Myotis_daubentonii		GCF	GCF_963259705.1	mMyoDau2.1	
+myotisBat	Myotis_laniger	Myotis_daubentonii	GCF Near			
+roundleafBat	Hipposideros_armiger		GCF	GCF_001890085.2	ASM189008v1	
+fruitBat	Cynopterus_sphinx	Rousettus_aegyptiacus	GCF Near			
+egyptianBat	Rousettus_aegyptiacus		GCF	GCF_014176215.1	mRouAeg1.p	
+nectarBat	Eonycteris_spelaea	Rousettus_aegyptiacus	GCF Near			
+horse	Equus_caballus		GCF	GCF_041296265.1	TB-T2T	
+pig	Sus_scrofa		GCF	GCF_000003025.6	Sscrofa11.1	
+minkeWhale	Balaenoptera_acutorostrata		GCF	GCF_949987535.1	mBalAcu1.1	
+bowheadWhale	Balaena_mysticetus	Balaenoptera_acutorostrata	GCF Near			
+cow	Bos_taurus		GCF	GCF_002263795.3	ARS-UCD2.0	
+sheep	Ovis_aries		GCF	GCF_016772045.2	ARS-UI_Ramb_v3.0	Orig paper used  Oar_rambouillet_v1.0
+cat	Felis_catus		GCF	GCF_018350175.1	F.catus_Fca126_mat1.0	
+dog	Canis_familiaris		GCF	GCF_011100685.1	UU_Cfam_GSD_1.0	
+ferret	Mustela_furo		GCF	GCF_011764305.1	ASM1176430v1.1	
+guineapig	Cavia_porcellus		GCF	GCF_034190915.1	mCavPor4.1	Orig paper used  Cavpor3.0
+groundSquirrel	Ictidomys_tridecemlineatus		GCF	GCF_016881025.1	HiC_Itri_2	Orig paper used  GCF_000236235.1_SpeTri2.0
+chipmunk	Tamias_sibiricus		Custom	GCA_047496905.1	ASM4749690v1	Orig paper used ASM2559416v1
+blindMoleRat	Nannospalax_galili		GCF	GCF_000622305.1	S.galili_v1.0	
+zokor	Myospalax_baileyi	Nannospalax_galili	GCF Near			
+hamster	Mesocricetus_auratus		GCF	GCF_017639785.1	BCM_Maur_2.0	
+deerMouse	Peromyscus_maniculatus		GCF	GCF_049852395.1	HU_Pman_BW_mat_3.1	Orig paper used HU_Pman_2.1
+gerbil	Meriones_unguiculatus		GCF	GCF_030254825.1	Bangor_MerUng_6.1	
+sandRat	Psammomys_obesus		GCF	GCF_907164565.1	mPsaObe1.curated_primary_1811	
+brownRat	Rattus_norvegicus		GCF	GCF_036323735.1	GRCr8	
+grassMouse	Rhabdomys_pumilio		Custom		Rhabdomys_pumilio_premRNA	
+labMouse	Mus_musculus		GCF	GCF_000001635.27	GRCm39	
+treeShrew	Tupaia_belangeri		Custom	http://www.treeshrewdb.org/download.html	TS_3.0	Orig paper used  GCF_000334495.1_TupChi_1.0
+marmoset	Callithrix_jacchus		GCF	GCF_011100555.1	mCalJa1.2.pat.X	Orig paper used GCF_000004665.1_Callithrix jacchus-3.2
+nancymaMonkey	Aotus_nancymaae		GCF	GCF_030222135.1	86718_ANA_hifiasm-v0.15.2.pri	
+oliveBaboon	Papio_anubis		GCF	GCF_008728515.1	Panubis1.0	
+crabMacaque	Macaca_fascicularis		GCF	GCF_037993035.1	T2T-MFA8v1.0	
+rhesusMacaque	Macaca_mulatta		GCF	GCF_003339765.1	Mmul_10	
+human	Homo_sapiens		GCF	GCF_000001405.40	GRCh38.p14	

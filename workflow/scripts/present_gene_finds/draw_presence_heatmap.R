@@ -21,9 +21,19 @@ print(org_colors)
 df <- (
     read.delim(infile)
     |> filter(GeneGroup != "Ignore")
+    |> filter(Status != "Undecided")
     |> mutate(GeneGroup = ifelse(GeneGroup == "MAFL", "CMAF", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "MAFL1A", "CMAF", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "MAFL1B", "NRL", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "MAFL2A", "MAFA", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "MAFL2B", "MAFB", GeneGroup))
     |> mutate(GeneGroup = ifelse(GeneGroup == "MAFS", "MAFF", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "MAFS1A", "MAFF", GeneGroup))
     |> mutate(GeneGroup = ifelse(GeneGroup == "OTX", "OTX1", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "OTX1C", "OTX1", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "OTX2A", "OTX2", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "OTX2B", "CRX", GeneGroup))
+    |> mutate(GeneGroup = ifelse(GeneGroup == "OTX2C", "CRY", GeneGroup))
 #    |> select(OrganismShortName, OrganismColor, ProteinSource, ProteinID, GeneGroup)
 #    |> select(-OrganismID, -AnnotationSource, -bulkrna107)
 #    |> select(-nMAFL, -nMAFS, -nOTX)
@@ -48,10 +58,10 @@ df <- (
         values_fill = "None"
     )
     |> left_join(
-        read.delim("configs/species173_table.tsv")
-        |> select(OrganismShortName, OrganismOrder173, bulkrna107)
+        read.delim("configs/species181_table.tsv")
+        |> select(OrganismShortName, OrganismOrder181, bulkrna107)
     )
-    |> arrange(OrganismOrder173)
+    |> arrange(OrganismOrder181)
     |> ungroup()
     |> mutate(OrganismColor = shortColor[OrganismColor])
 )
@@ -60,21 +70,22 @@ head(df)
 
 gene_grouping = c(
     "CMAF" = "Large MAF",
+    "NRL" = "Large MAF",
     "MAFA" = "Large MAF",
     "MAFB" = "Large MAF",
-    "NRL" = "Large MAF",
     "MAFF" = "Small MAF",
     "MAFG" = "Small MAF",
     "MAFK" = "Small MAF",
     "OTX1" = "OTX",
     "OTX2" = "OTX",
-    "CRX" = "OTX"
+    "CRX" = "OTX",
+    "CRY" = "OTX"
 )
 
 draw_heatmap <- function(df, outfile) {
 
 mat <- (
-    df |> select(-OrganismShortName, -OrganismColor, -OrganismOrder173, -bulkrna107)
+    df |> select(-OrganismShortName, -OrganismColor, -OrganismOrder181, -bulkrna107)
     |> as.matrix()
 )
 rownames(mat) <- pull(df, OrganismShortName)

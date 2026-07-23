@@ -1,0 +1,182 @@
+OrganismShortName	Representative	Datasets	OrganismOrder50	annotated50	bulkrna107	hahnscrna17	liscrna24	near29
+hydra	No	annotated50	1	Yes	No	No	No	No
+flameJellyfish	No	near29		No	No	No	No	Yes
+boxJellyfish	No	bulkrna107		No	Yes	No	No	No
+scallop	No	bulkrna107		No	Yes	No	No	No
+octopus	No	"annotated50,bulkrna107"	2	Yes	Yes	No	No	No
+hawaiianSquid	No	bulkrna107		No	Yes	No	No	No
+reefSquid	No	bulkrna107		No	Yes	No	No	No
+tardigrade	No	annotated50	3	Yes	No	No	No	No
+waspSpider	No	near29		No	No	No	No	Yes
+spider	No	bulkrna107		No	Yes	No	No	No
+norwayLobster	No	bulkrna107		No	Yes	No	No	No
+americanLobster	No	near29		No	No	No	No	Yes
+drosophila	Yes	"annotated50,bulkrna107"	4	Yes	Yes	No	No	No
+plastererBee	Yes	annotated50	5	Yes	No	No	No	No
+acornWorm	Yes	annotated50	6	Yes	No	No	No	No
+seaurchin	Yes	annotated50	7	Yes	No	No	No	No
+echinoderm	Yes	annotated50	8	Yes	No	No	No	No
+amphioxus	Yes	"annotated50,bulkrna107"	9	Yes	Yes	No	No	No
+vaseTunicate	Yes	"annotated50,bulkrna107"	10	Yes	Yes	No	No	No
+seaSquirt	Yes	annotated50	11	Yes	No	No	No	No
+atlanticHagfish	Yes	annotated50	12	Yes	No	No	No	No
+inshoreHagfish	Yes	extra		No	No	No	No	No
+brownHagfish	Yes	extra		No	No	No	No	No
+broadgilledHagfish	Yes	bulkrna107		No	Yes	No	No	No
+pouchedLamprey	Yes	bulkrna107		No	Yes	No	No	No
+shortheadLamprey	Yes	bulkrna107		No	Yes	No	No	No
+seaLamprey	Yes	"annotated50,bulkrna107,hahnscrna17"	13	Yes	Yes	Yes	No	No
+europeanRiverLamprey	Yes	extra		No	No	No	No	No
+europeanBrookLamprey	Yes	extra		No	No	No	No	No
+fareasternBrookLamprey	Yes	near29		No	No	No	No	Yes
+arcticLamprey	Yes	bulkrna107		No	Yes	No	No	No
+bluespottedStingray	Yes	bulkrna107		No	Yes	No	No	No
+redStingray	Yes	near29		No	No	No	No	Yes
+catshark	Yes	bulkrna107		No	Yes	No	No	No
+reefShark	Yes	bulkrna107		No	Yes	No	No	No
+bambooShark	Yes	bulkrna107		No	Yes	No	No	No
+nurseShark	Yes	bulkrna107		No	Yes	No	No	No
+zebraShark	Yes	near29		No	No	No	No	Yes
+whaleShark	Yes	annotated50	14	Yes	No	No	No	No
+bowfin	Yes	bulkrna107		No	Yes	No	No	No
+spottedGar	Yes	"annotated50,bulkrna107"	15	Yes	Yes	No	No	No
+floridaGar	Yes	bulkrna107		No	Yes	No	No	No
+americanEel	No	near29		No	No	No	No	Yes
+eel	No	bulkrna107		No	Yes	No	No	No
+zebrafish	Yes	"annotated50,bulkrna107,hahnscrna17"	16	Yes	Yes	Yes	No	No
+grassCarp	Yes	liscrna24		No	No	No	Yes	No
+channelCatfish	No	annotated50	17	Yes	No	No	No	No
+yangtzeCatfish	No	bulkrna107		No	Yes	No	No	No
+piranha	Yes	annotated50	18	Yes	No	No	No	No
+northernPike	Yes	bulkrna107		No	Yes	No	No	No
+lanternFish	No	bulkrna107		No	Yes	No	No	No
+cod	Yes	bulkrna107		No	Yes	No	No	No
+tuna	Yes	bulkrna107		No	Yes	No	No	No
+snakeheadFish	Yes	liscrna24		No	No	No	Yes	No
+cichlid	No	bulkrna107		No	Yes	No	No	No
+tilapia	No	liscrna24		No	No	No	Yes	No
+flavescentPeacockFish	Yes	near29		No	No	No	No	Yes
+yellowPeacockFish	No	bulkrna107		No	Yes	No	No	No
+triggerfish	No	bulkrna107		No	Yes	No	No	No
+oceanJacket	Yes	near29		No	No	No	No	Yes
+giltheadBream	No	bulkrna107		No	Yes	No	No	No
+oldwife	Yes	near29		No	No	No	No	Yes
+bluegill	No	bulkrna107		No	Yes	No	No	No
+coelacanth	Yes	annotated50	19	Yes	No	No	No	No
+lungfish	Yes	annotated50	20	Yes	No	No	No	No
+tinyCaecilian	Yes	annotated50	21	Yes	No	No	No	No
+twolinedCaecilian	Yes	annotated50	22	Yes	No	No	No	No
+chineseSalamander	Yes	bulkrna107		No	Yes	No	No	No
+axolotl	Yes	liscrna24		No	No	No	Yes	No
+redSalamander	Yes	bulkrna107		No	Yes	No	No	No
+himalayaFrog	Yes	annotated50	23	Yes	No	No	No	No
+westernFrog	Yes	"annotated50,bulkrna107"	24	Yes	Yes	No	No	No
+africanFrog	Yes	"annotated50,bulkrna107"	25	Yes	Yes	No	No	No
+tokayGecko	Yes	bulkrna107		No	Yes	No	No	No
+japaneseGecko	Yes	annotated50	26	Yes	No	No	No	No
+sandLizard	Yes	annotated50	27	Yes	No	No	No	No
+tawnyDragon	Yes	bulkrna107		No	Yes	No	No	No
+beardedDragon	Yes	"annotated50,liscrna24"	28	Yes	No	No	Yes	No
+greenAnole	Yes	"annotated50,bulkrna107"	29	Yes	Yes	No	No	No
+brownAnole	Yes	"annotated50,hahnscrna17"	30	Yes	No	Yes	No	No
+python	Yes	annotated50	31	Yes	No	No	No	No
+groundBoa	Yes	near29		No	No	No	No	Yes
+cobra	No	bulkrna107		No	Yes	No	No	No
+garterSnake	Yes	"annotated50,bulkrna107"	32	Yes	Yes	No	No	No
+cornSnake	Yes	liscrna24		No	No	No	Yes	No
+greenTurtle	Yes	annotated50	33	Yes	No	No	No	No
+redTurtle	Yes	liscrna24		No	No	No	Yes	No
+americanAlligator	Yes	"annotated50,bulkrna107"	34	Yes	Yes	No	No	No
+chineseAlligator	Yes	annotated50	35	Yes	No	No	No	No
+emu	Yes	bulkrna107		No	Yes	No	No	No
+ostrich	No	bulkrna107		No	Yes	No	No	No
+mallardDuck	Yes	liscrna24		No	No	No	Yes	No
+muscovyDuck	No	bulkrna107		No	Yes	No	No	No
+quail	Yes	"annotated50,bulkrna107"	36	Yes	Yes	No	No	No
+chicken	Yes	"annotated50,bulkrna107,hahnscrna17,liscrna24"	37	Yes	Yes	Yes	Yes	No
+sunangel	No	near29		No	No	No	No	Yes
+redStreamertail	No	bulkrna107		No	Yes	No	No	No
+blackStreamertail	No	bulkrna107		No	Yes	No	No	No
+hybridStreamertail	No	bulkrna107		No	Yes	No	No	No
+pigeon	Yes	"annotated50,bulkrna107"	38	Yes	Yes	No	No	No
+kite	No	bulkrna107		No	Yes	No	No	No
+goldenEagle	Yes	near29		No	No	No	No	Yes
+vulture	No	bulkrna107		No	Yes	No	No	No
+harpyEagle	No	near29		No	No	No	No	Yes
+harrier	No	bulkrna107		No	Yes	No	No	No
+greyfacedBuzzard	No	bulkrna107		No	Yes	No	No	No
+commonBuzzard	No	near29		No	No	No	No	Yes
+redTailHawk	No	bulkrna107		No	Yes	No	No	No
+gosHwak	No	near29		No	No	No	No	Yes
+coopersHawk	No	bulkrna107		No	Yes	No	No	No
+besra	No	bulkrna107		No	Yes	No	No	No
+sparrowHawk	Yes	near29		No	No	No	No	Yes
+barnOwl	Yes	bulkrna107		No	Yes	No	No	No
+grassOwl	No	bulkrna107		No	Yes	No	No	No
+borealOwl	No	bulkrna107		No	Yes	No	No	No
+littleOwl	No	bulkrna107		No	Yes	No	No	No
+orientalScopsOwl	No	near29		No	No	No	No	Yes
+eurasianScopsOwl	No	bulkrna107		No	Yes	No	No	No
+indianScopsOwl	No	bulkrna107		No	Yes	No	No	No
+shortearOwl	No	bulkrna107		No	Yes	No	No	No
+longearOwl	No	bulkrna107		No	Yes	No	No	No
+screechOwl	No	bulkrna107		No	Yes	No	No	No
+barredOwl	No	bulkrna107		No	Yes	No	No	No
+uralOwl	No	near29		No	No	No	No	Yes
+tawnyOwl	No	bulkrna107		No	Yes	No	No	No
+eagleOwl	No	bulkrna107		No	Yes	No	No	No
+hornedOwl	No	bulkrna107		No	Yes	No	No	No
+mousebird	No	near29		No	No	No	No	Yes
+hoopoe	No	bulkrna107		No	Yes	No	No	No
+honeyguide	No	near29		No	No	No	No	Yes
+woodpecker	No	bulkrna107		No	Yes	No	No	No
+budgerigar	Yes	"bulkrna107,liscrna24"		No	Yes	No	Yes	No
+commonKestrel	No	bulkrna107		No	Yes	No	No	No
+peregrineFalcon	No	near29		No	No	No	No	Yes
+eurasianHobby	No	bulkrna107		No	Yes	No	No	No
+hawaiianCrow	No	near29		No	No	No	No	Yes
+carrionCrow	No	bulkrna107		No	Yes	No	No	No
+hoodedCrow	No	bulkrna107		No	Yes	No	No	No
+whiteWagtail	No	bulkrna107		No	Yes	No	No	No
+canary	No	"bulkrna107,liscrna24"		No	Yes	No	Yes	No
+zebrafinch	Yes	bulkrna107		No	Yes	No	No	No
+platypus	Yes	annotated50	39	Yes	No	No	No	No
+opossum	Yes	"annotated50,bulkrna107,hahnscrna17"	40	Yes	Yes	Yes	No	No
+europeanHedgehog	No	near29		No	No	No	No	Yes
+africanHedgehog	No	liscrna24		No	No	No	Yes	No
+sacwingedBat	No	near29		No	No	No	No	Yes
+tombBat	No	bulkrna107		No	Yes	No	No	No
+daubentonBat	No	near29		No	No	No	No	Yes
+myotisBat	No	bulkrna107		No	Yes	No	No	No
+roundleafBat	Yes	bulkrna107		No	Yes	No	No	No
+fruitBat	No	bulkrna107		No	Yes	No	No	No
+egyptianBat	No	near29		No	No	No	No	Yes
+nectarBat	No	bulkrna107		No	Yes	No	No	No
+horse	Yes	"annotated50,bulkrna107"	41	Yes	Yes	No	No	No
+pig	No	"bulkrna107,liscrna24,hahnscrna17"		No	Yes	Yes	Yes	No
+minkeWhale	No	near29		No	No	No	No	Yes
+bowheadWhale	No	bulkrna107		No	Yes	No	No	No
+cow	Yes	"annotated50,bulkrna107,hahnscrna17"	42	Yes	Yes	Yes	No	No
+sheep	No	hahnscrna17		No	No	Yes	No	No
+cat	No	"bulkrna107,liscrna24"		No	Yes	No	Yes	No
+dog	Yes	"annotated50,bulkrna107,liscrna24"	43	Yes	Yes	No	Yes	No
+ferret	No	"hahnscrna17,liscrna24"		No	No	Yes	Yes	No
+treeShrew	No	hahnscrna17		No	No	Yes	No	No
+guineapig	No	liscrna24		No	No	No	Yes	No
+groundSquirrel	No	"annotated50,bulkrna107,hahnscrna17"	44	Yes	Yes	Yes	No	No
+chipmunk	No	liscrna24		No	No	No	Yes	No
+blindMoleRat	No	near29		No	No	No	No	Yes
+zokor	No	bulkrna107		No	Yes	No	No	No
+hamster	No	liscrna24		No	No	No	Yes	No
+deerMouse	No	hahnscrna17		No	No	Yes	No	No
+gerbil	No	liscrna24		No	No	No	Yes	No
+sandRat	Yes	"annotated50,bulkrna107"	45	Yes	Yes	No	No	No
+brownRat	No	"annotated50,bulkrna107,liscrna24"	46	Yes	Yes	No	Yes	No
+grassMouse	No	hahnscrna17		No	No	Yes	No	No
+labMouse	Yes	"annotated50,bulkrna107,hahnscrna17,liscrna24"	47	Yes	Yes	Yes	Yes	No
+marmoset	Yes	"annotated50,bulkrna107,hahnscrna17"	48	Yes	Yes	Yes	No	No
+nancymaMonkey	No	bulkrna107		No	Yes	No	No	No
+oliveBaboon	No	bulkrna107		No	Yes	No	No	No
+crabMacaque	Yes	"annotated50,bulkrna107,hahnscrna17,liscrna24"	49	Yes	Yes	Yes	Yes	No
+rhesusMacaque	No	bulkrna107		No	Yes	No	No	No
+human	Yes	"annotated50,bulkrna107,hahnscrna17,liscrna24"	50	Yes	Yes	Yes	Yes	No

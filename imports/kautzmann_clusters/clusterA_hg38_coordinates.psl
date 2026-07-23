@@ -1,0 +1,6 @@
+psLayout version 3
+
+match	mis- 	rep. 	N's	Q gap	Q gap	T gap	T gap	strand	Q        	Q   	Q    	Q  	T        	T   	T    	T  	block	blockSizes 	qStarts	 tStarts
+     	match	match	   	count	bases	count	bases	      	name     	size	start	end	name     	size	start	end	count
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+412	0	0	0	0	0	0	0	+	imports/kautzmann_clusters/clusterA_mm9_human_dna.nib	412	0	412	chr14	107043718	24084522	24084934	1	412,	0,	24084522,

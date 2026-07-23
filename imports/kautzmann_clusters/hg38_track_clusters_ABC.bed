@@ -1,0 +1,5 @@
+track name="NRL Upstream hg38" description="Conserved NRL Upstream in mammals" visibility=3
+chr14	24084522	24084934	ClusterA	0	-	24084522	24084934	255,0,0
+chr14	24085319	24085600	ClusterB	0	-	24085319	24085600	0,255,0
+chr14	24086564	24086837	ClusterC	0	-	24086564	24086837	0,0,255
+

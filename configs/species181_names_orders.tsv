@@ -1,0 +1,182 @@
+OrganismOrder181	ShortName	OrganismShortName	OrganismCommonName	OrganismScientificName	OrganismColor	IsVertebrate
+1	hydra	hydra	Swiftwater hydra	Hydra vulgaris	Nonchordates	No
+2	flameJellyfish	flameJellyfish	Flame jellyfish	Rhopilema esculentum	Nonchordates	No
+3	jellyfish	boxJellyfish	Sea wasp (Box jellyfish)	Alatina alata	Nonchordates	No
+4	scallop	scallop	Yesso scallop	Mizuhopecten yessoensis	Nonchordates	No
+5	octopus	octopus	California two-spot octopus	Octopus bimaculoides	Nonchordates	No
+6	hawaiianSquid	hawaiianSquid	Hawaiian bobtail squid	Euprymna scolopes	Nonchordates	No
+7	reefSquid	reefSquid	Caribbean reef squid	Sepioteuthis sepioidea	Nonchordates	No
+8	tardigrade	tardigrade	Tardigrade	Paramacrobiotus metropolitanus	Nonchordates	No
+9	waspSpider	waspSpider	Wasp spider	Argiope bruennichi	Nonchordates	No
+10	spider	spider	Paradise spider	Habronattus gilaensis	Nonchordates	No
+11	lobster	norwayLobster	Norway lobster	Nephrops norvegicus	Nonchordates	No
+12	americanLobster	americanLobster	American lobster	Homarus americanus	Nonchordates	No
+13	drosophila	drosophila	Fruit fly	Drosophila melanogaster	Nonchordates	No
+14	plastererBee	plastererBee	Plasterer Bee	Colletes gigas	Nonchordates	No
+15	acornWorm	acornWorm	Acorn worm	Saccoglossus kowalevskii	Nonchordates	No
+16	seaurchin	seaurchin	Green sea urchin	Lytechinus variegatus	Nonchordates	No
+17	echinoderm	echinoderm	Japanese echinoderm	Anneissia japonica	Nonchordates	No
+18	amphioxus	amphioxus	Florida lancelet (Amphioxus)	Branchiostoma floridae	Protochordates	No
+19	tunicate	vaseTunicate	Vase tunicate	Ciona intestinalis	Protochordates	No
+20	seaSquirt	seaSquirt	Sea squirt	Styela clava	Protochordates	No
+21	hagfish	atlanticHagfish	Hagfish	Myxine glutinosa	Agnathans (hagfish and lampreys)	Yes
+22	inshoreHagfish	inshoreHagfish	Inshore Hagfish	Eptatretus burgeri	Agnathans (hagfish and lampreys)	Yes
+23	brownHagfish	brownHagfish	Brown Hagfish	Eptatretus atami	Agnathans (hagfish and lampreys)	Yes
+24	broadgilledHagfish	broadgilledHagfish	Broadgilled hagfish	Eptatretus cirrhatus	Agnathans (hagfish and lampreys)	Yes
+25	pouchedLamprey	pouchedLamprey	Pouched lamprey	Geotria australis	Agnathans (hagfish and lampreys)	Yes
+26	shortHeadLamprey	shortheadLamprey	Short-headed lamprey	Mordacia mordax	Agnathans (hagfish and lampreys)	Yes
+27	lamprey	seaLamprey	Sea lamprey	Petromyzon marinus	Agnathans (hagfish and lampreys)	Yes
+28	europeanRiverLamprey	europeanRiverLamprey	European river lamprey	Lampetra fluviatilis	Agnathans (hagfish and lampreys)	Yes
+29	europeanBrookLamprey	europeanBrookLamprey	European brook lamprey	Lampetra planeri	Agnathans (hagfish and lampreys)	Yes
+30	fareasternBrookLamprey	fareasternBrookLamprey	Far Eastern brook lamprey	Lethenteron reissneri	Agnathans (hagfish and lampreys)	Yes
+31	arcticLamprey	arcticLamprey	Arctic lamprey	Lethenteron camtschaticum	Agnathans (hagfish and lampreys)	Yes
+32	stingray	bluespottedStingray	Blue-spotted stingray	Neotrygon kuhlii	Cartilaginous fishes	Yes
+33	redStingray	redStingray	Red stingray	Hemitrygon akajei	Cartilaginous fishes	Yes
+34	catshark	catshark	Cloudy catshark	Scyliorhinus torazame	Cartilaginous fishes	Yes
+35	reefShark	reefShark	Grey reef shark	Carcharhinus amblyrhynchos	Cartilaginous fishes	Yes
+36	bambooShark	bambooShark	Brownbanded bamboo shark	Chiloscyllium punctatum	Cartilaginous fishes	Yes
+37	nurseShark	nurseShark	Nurse shark	Ginglymostoma cirratum	Cartilaginous fishes	Yes
+38	zebraShark	zebraShark	Zebra shark	Stegostoma tigrinum	Cartilaginous fishes	Yes
+39	shark	whaleShark	Whale shark	Rhincodon typus	Cartilaginous fishes	Yes
+40	bowfin	bowfin	Bowfin	Amia calva	Non-teleost ray-finned fishes	Yes
+41	gar	spottedGar	Spotted gar	Lepisosteus oculatus	Non-teleost ray-finned fishes	Yes
+42	floridaGar	floridaGar	Florida gar	Lepisosteus platyrhincus	Non-teleost ray-finned fishes	Yes
+43	americanEel	americanEel	American eel	Anguilla rostrata	Teleost ray-finned fishes	Yes
+44	eel	eel	Ocellated moray eel	Gymnothorax saxicola	Teleost ray-finned fishes	Yes
+45	zebrafish	zebrafish	Zebrafish	Danio rerio	Teleost ray-finned fishes	Yes
+46	grassCarp	grassCarp	Grass carp	Ctenopharyngodon idella	Teleost ray-finned fishes	Yes
+47	catfish	channelCatfish	Channel catfish	Ictalurus punctatus	Teleost ray-finned fishes	Yes
+48	yangtzeCatfish	yangtzeCatfish	Yangtze catfish	Silurus meridionalis	Teleost ray-finned fishes	Yes
+49	piranha	piranha	Red-bellied piranha	Pygocentrus nattereri	Teleost ray-finned fishes	Yes
+50	northernPike	northernPike	Northern pike	Esox lucius	Teleost ray-finned fishes	Yes
+51	lanternFish	lanternFish	Electric lantern fish	Electrona risso	Teleost ray-finned fishes	Yes
+52	cod	cod	Atlantic cod	Gadus morhua	Teleost ray-finned fishes	Yes
+53	tuna	tuna	Yellowfin tuna	Thunnus albacares	Teleost ray-finned fishes	Yes
+54	snakeheadFish	snakeheadFish	Snakehead fish	Channa argus	Teleost ray-finned fishes	Yes
+55	cichlid	cichlid	Flier cichlid	Archocentrus centrarchus	Teleost ray-finned fishes	Yes
+56	tilapia	tilapia	Mozambique tilapia	Oreochromis mossambicus	Teleost ray-finned fishes	Yes
+57	flavescentPeacockFish	flavescentPeacockFish	Flavescent peacock cichlid	Aulonocara stuartgranti	Teleost ray-finned fishes	Yes
+58	peacockFish	yellowPeacockFish	Nkhomo-benga peacock	Aulonocara baenschi	Teleost ray-finned fishes	Yes
+59	triggerfish	triggerfish	Lagoon triggerfish	Rhinecanthus aculeatus	Teleost ray-finned fishes	Yes
+60	oceanJacket	oceanJacket	Chinaman-leatherjacket	Nelusetta ayraudi	Teleost ray-finned fishes	Yes
+61	giltheadBream	giltheadBream	Gilt-head bream	Sparus aurata	Teleost ray-finned fishes	Yes
+62	oldwife	oldwife	Old wife	Enoplosus armatus	Teleost ray-finned fishes	Yes
+63	bluegill	bluegill	Bluegill	Lepomis macrochirus	Teleost ray-finned fishes	Yes
+64	coelacanth	coelacanth	Coelacanth	Latimeria chalumnae	Lobe-finned fishes	Yes
+65	lungfish	lungfish	West African lungfish	Protopterus annectens	Lobe-finned fishes	Yes
+66	earthworm	tinyCaecilian	Tiny Cayenne Caecilian	Microcaecilia unicolor	Amphibians	Yes
+67	twolinedCaecilian	twolinedCaecilian	Two-lined caecilian	Rhinatrema bivittatum	Amphibians	Yes
+68	chineseSalamander	chineseSalamander	Chinese giant salamander	Andrias davidianus	Amphibians	Yes
+69	axolotl	axolotl	Axolotl	Ambystoma mexicanum	Amphibians	Yes
+70	redSalamander	redSalamander	Red-backed salamander	Plethodon cinereus	Amphibians	Yes
+71	himalayaFrog	himalayaFrog	High Himalaya Frog	Nanorana parkeri	Amphibians	Yes
+72	frog	westernFrog	Western clawed frog	Xenopus tropicalis	Amphibians	Yes
+73	africanFrog	africanFrog	African clawed frog	Xenopus laevis	Amphibians	Yes
+74	tokayGecko	tokayGecko	Tokay gecko	Gekko gecko	Squamata (lizards and snakes)	Yes
+75	gecko	japaneseGecko	Japanese gecko	Gekko japonicus	Squamata (lizards and snakes)	Yes
+76	sandLizard	sandLizard	Sand lizard	Lacerta agilis	Squamata (lizards and snakes)	Yes
+77	tawnyDragon	tawnyDragon	Tawny crevice-dragon	Ctenophorus decresii	Squamata (lizards and snakes)	Yes
+78	dragon	beardedDragon	Bearded dragon	Pogona vitticeps	Squamata (lizards and snakes)	Yes
+79	greenAnole	greenAnole	Green anole lizard	Anolis carolinensis	Squamata (lizards and snakes)	Yes
+80	brownAnole	brownAnole	Brown anole lizard 	Anolis sagrei	Squamata (lizards and snakes)	Yes
+81	python	python	Burmese python	Python bivittatus	Squamata (lizards and snakes)	Yes
+82	groundBoa	groundBoa	Papuan ground boa	Candoia aspera	Squamata (lizards and snakes)	Yes
+83	cobra	cobra	Indian cobra	Naja naja	Squamata (lizards and snakes)	Yes
+84	snake	garterSnake	Common garter snake	Thamnophis sirtalis	Squamata (lizards and snakes)	Yes
+85	cornSnake	cornSnake	Corn snake	Pantherophis guttatus	Squamata (lizards and snakes)	Yes
+86	greenTurtle	greenTurtle	Green turtle	Chelonia mydas	Turtles	Yes
+87	turtle	redTurtle	Red-eared slider turtle	Trachemys scripta elegans	Turtles	Yes
+88	alligator	americanAlligator	American alligator	Alligator mississippiensis	Crocodiles	Yes
+89	chineseAlligator	chineseAlligator	Chinese alligator	Alligator sinensis	Crocodiles	Yes
+90	emu	emu	Emu	Dromaius novaehollandiae	Birds	Yes
+91	ostrich	ostrich	Common ostrich	Struthio camelus	Birds	Yes
+92	duck	mallardDuck	Duck	Anas platyrhynchos	Birds	Yes
+93	muscovyDuck	muscovyDuck	Muscovy duck	Cairina moschata	Birds	Yes
+94	quail	quail	Japanese quail	Coturnix japonica	Birds	Yes
+95	chicken	chicken	Chicken	Gallus gallus domesticus	Birds	Yes
+96	sunangel	sunangel	Tourmaline sunangel	Heliangelus exortis	Birds	Yes
+97	redStreamertail	redStreamertail	Red-billed streamertail	Trochilus polytmus	Birds	Yes
+98	blackStreamertail	blackStreamertail	Black-billed streamertail	Trochilus scitulus	Birds	Yes
+99	hybridStreamertail	hybridStreamertail	Hybrid streamertail	Trochilus hybrid	Birds	Yes
+100	pigeon	pigeon	Rock dove	Columba livia	Birds	Yes
+101	kite	kite	Black-winged kite	Elanus caeruleus	Birds	Yes
+102	goldenEagle	goldenEagle	Gilden eagle	Aquila chrysaetos chrysaetos	Birds	Yes
+103	vulture	vulture	Cinereous vulture	Aegypius monachus	Birds	Yes
+104	harpyEagle	harpyEagle	Harpy eagle	Harpia harpyja	Birds	Yes
+105	harrier	harrier	Pied harrier	Circus melanoleucos	Birds	Yes
+106	buzzard	greyfacedBuzzard	Grey-faced buzzard	Butastur indicus	Birds	Yes
+107	commonBuzzard	commonBuzzard	Common buzzard	Buteo buteo	Birds	Yes
+108	redTailHawk	redTailHawk	Red-tailed hawk	Buteo jamaicensis	Birds	Yes
+109	gosHwak	gosHwak	Northern goshawk	Astur gentilis	Birds	Yes
+110	coopersHawk	coopersHawk	Cooper's hawk	Accipiter cooperii	Birds	Yes
+111	besra	besra	Besra	Accipiter virgatus	Birds	Yes
+112	sparrowHawk	sparrowHawk	Eurasian sparrowhawk	Accipiter nisus	Birds	Yes
+113	barnOwl	barnOwl	Barn owl	Tyto alba	Birds	Yes
+114	grassOwl	grassOwl	Eastern grass owl	Tyto longimembris	Birds	Yes
+115	borealOwl	borealOwl	Boreal owl	Aegolius funereus	Birds	Yes
+116	littleOwl	littleOwl	Little owl	Athene noctua	Birds	Yes
+117	orientalScopsOwl	orientalScopsOwl	Oriental scops owl	Otus sunia	Birds	Yes
+118	eurasianScopsOwl	eurasianScopsOwl	Eurasian scops owl	Otus scops	Birds	Yes
+119	indianScopsOwl	indianScopsOwl	Indian scops owl	Otus bakkamoena	Birds	Yes
+120	shortearOwl	shortearOwl	Short-eared owl	Asio flammeus	Birds	Yes
+121	longearOwl	longearOwl	Long-eared owl	Asio otus	Birds	Yes
+122	screechOwl	screechOwl	Eastern screech owl	Megascops asio	Birds	Yes
+123	barredOwl	barredOwl	Barred owl	Strix varia	Birds	Yes
+124	uralOwl	uralOwl	Ural owl	Strix uralensis	Birds	Yes
+125	tawnyOwl	tawnyOwl	Tawny owl	Strix aluco	Birds	Yes
+126	eagleOwl	eagleOwl	Eurasian eagle-owl	Bubo bubo	Birds	Yes
+127	hornedOwl	hornedOwl	Great horned owl	Bubo virginianus	Birds	Yes
+128	mousebird	mousebird	Speckled mousebird	Colius striatus	Birds	Yes
+129	hoopoe	hoopoe	Eurasian hoopoe	Upupa epops	Birds	Yes
+130	honeyguide	honeyguide	Greater honeyguide	Indicator indicator	Birds	Yes
+131	woodpecker	woodpecker	Grey-headed woodpecker	Picus canus	Birds	Yes
+132	budgerigar	budgerigar	Budgerigar	Melopsittacus undulatus	Birds	Yes
+133	commonKestrel	commonKestrel	Common kestrel	Falco tinnunculus	Birds	Yes
+134	peregrineFalcon	peregrineFalcon	Peregrine falcon	Falco peregrinus	Birds	Yes
+135	eurasianHobby	eurasianHobby	Eurasian hobby	Falco subbuteo	Birds	Yes
+136	hawaiianCrow	hawaiianCrow	Hawaiian crow	Corvus hawaiiensis	Birds	Yes
+137	carrionCrow	carrionCrow	Carrion crow	Corvus corone corone	Birds	Yes
+138	hoodedCrow	hoodedCrow	Hooded crow	Corvus cornix cornix	Birds	Yes
+139	whiteWagtail	whiteWagtail	White wagtail	Motacilla alba	Birds	Yes
+140	canary	canary	Canary	Serinus canaria	Birds	Yes
+141	zebrafinch	zebrafinch	Zebrafinch	Taeniopygia guttata	Birds	Yes
+142	platypus	platypus	platypus	Ornithorhynchus anatinus	Mammals	Yes
+143	opossum	opossum	Gray short-tailed opossum	Monodelphis domestica	Mammals	Yes
+144	europeanHedgehog	europeanHedgehog	Western European hedgehog	Erinaceus europaeus	Mammals	Yes
+145	africanHedgehog	africanHedgehog	Hedgehog	Atelerix algirus	Mammals	Yes
+146	sacwingedBat	sacwingedBat	Greater sac-winged bat	Saccopteryx bilineata	Mammals	Yes
+147	tombBat	tombBat	Black-bearded tomb bat	Taphozous melanopogon	Mammals	Yes
+148	daubentonBat	daubentonBat	Daubenton's bat	Myotis daubentonii	Mammals	Yes
+149	waterMyotis	myotisBat	Chinese water myotis	Myotis laniger	Mammals	Yes
+150	roundleafBat	roundleafBat	Great roundleaf bat	Hipposideros armiger	Mammals	Yes
+151	fruitBat	fruitBat	Greater short-nosed fruit bat	Cynopterus sphinx	Mammals	Yes
+152	egyptianBat	egyptianBat	Egyptian rousette	Rousettus aegyptiacus	Mammals	Yes
+153	nectarBat	nectarBat	Cave nectar bat	Eonycteris spelaea	Mammals	Yes
+154	horse	horse	Horse	Equus caballus	Mammals	Yes
+155	pig	pig	Wild boar or domestic pig	Sus scrofa domesticas 	Mammals	Yes
+156	minkeWhale	minkeWhale	Minke whale	Balaenoptera acutorostrata	Mammals	Yes
+157	bowheadWhale	bowheadWhale	Bowhead whale	Balaena mysticetus	Mammals	Yes
+158	cow	cow	Cow	Bos taurus	Mammals	Yes
+159	sheep	sheep	Sheep	Ovis aries	Mammals	Yes
+160	cat	cat	Cat	Felis catus	Mammals	Yes
+161	dog	dog	Dog	Canis lupus familiaris	Mammals	Yes
+162	ferret	ferret	Ferret	Mustela putorius furo	Mammals	Yes
+163	guineapig	guineapig	Guinea pig	Cavia porcellus	Mammals	Yes
+164	groundSquirrel	groundSquirrel	Thirteen-lined ground squirrel	Ictidomys tridecemlineatus	Mammals	Yes
+165	chipmunk	chipmunk	Chipmunk	Tamias sibiricus	Mammals	Yes
+166	blindMoleRat	blindMoleRat	Upper Galilee mountains blind mole rat	Nannospalax galili	Mammals	Yes
+167	zokor	zokor	Zokor	Myospalax baileyi	Mammals	Yes
+168	hamster	hamster	Hamster	Mesocricetus auratus	Mammals	Yes
+169	deerMouse	deerMouse	Deer mouse	Peromyscus maniculatus bairdii	Mammals	Yes
+170	gerbil	gerbil	Mongolian gerbil	Meriones unguiculatus	Mammals	Yes
+171	sandRat	sandRat	Sand rat	Psammomys obesus	Mammals	Yes
+172	brownRat	brownRat	Brown rat	Rattus norvegicus	Mammals	Yes
+173	grassMouse	grassMouse	Four-striped grass mouse	Rhabdomys pumilio	Mammals	Yes
+174	mouse	labMouse	Laboratory mouse	Mus musculus	Mammals	Yes
+175	treeShrew	treeShrew	Northern treeshrew	Tupaia belangeri chinensis	Mammals	Yes
+176	marmoset	marmoset	Common marmoset	Callithrix jacchus	Mammals	Yes
+177	nancymaMonkey	nancymaMonkey	Nancy Ma's night monkey	Aotus nancymaae	Mammals	Yes
+178	oliveBaboon	oliveBaboon	Olive baboon	Papio anubis	Mammals	Yes
+179	macaque	crabMacaque	Crab-eating macaque	Macaca fascicularis	Mammals	Yes
+180	rhesusMacaque	rhesusMacaque	Rhesus macaque	Macaca mulatta	Mammals	Yes
+181	human	human	Human	Homo sapiens	Mammals	Yes

@@ -4,13 +4,6 @@ import numpy as np
 orgs = (
     pd.read_csv("configs/species173_table.tsv", sep = "\t")
     [["OrganismShortName", "OrganismID", "OrganismColor"]]
-    .merge(
-        (
-            pd.read_csv("configs/species173_annotations.tsv", sep = "\t")
-            [["OrganismShortName", "AnnotationSource"]]
-        ),
-        how  ="left",
-    )
 )
 
 print(orgs)

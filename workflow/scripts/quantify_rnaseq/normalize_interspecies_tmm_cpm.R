@@ -13,7 +13,7 @@ ortholog_expr_file <- snakemake@output[["norm"]]
 dge_rds_file <- snakemake@output[["dge"]]
 factors_file <- snakemake@output[["factor"]]
 
-normalization <- snakemake@wildcards[["norm"]]
+normalization <- "tmm_abundance_edger" #snakemake@wildcards[["norm"]]
 
 print(ortholog_table_file)
 print(samples_file)

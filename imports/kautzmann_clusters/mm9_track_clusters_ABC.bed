@@ -1,0 +1,16 @@
+# Here we compute the mm9 coordinates of Kautzmann et al 2011 clusters A,B,C
+# Approximate cluster A: [TSS-117:TSS+137] = [56,143,170:56,142,916]
+# => TSS = 56,143,053 and
+#    actual cluster A: [TSS-304:TSS+119] = [56,143,357:56,142,934]
+#
+# Approximate cluster B: [TSS-909:TSS-667] = [56,143,962:56,143,720]
+# => actual cluster B: [TSS-938:TSS-657] = [56,143,991:56,143,710]
+#
+# Actual cluster C: [TSS-2734:TSS-2464*] = [56,145,787:56,145,517]
+#  *: this coordinate is not specified in Kautzmann et al 2011. I manually approximated
+#     this by seeing mm9 track and comparing it with the conservation bar at the top of Figure 1A
+#
+track name="Nrl Upstream mm9" description="Conserved NRL Upstream in mammals" visibility=3
+chr14	56142934	56143357	ClusterA	0	-	56142934	56143357	255,0,0
+chr14	56143710	56143991	ClusterB	0	-	56143710	56143991	0,255,0
+chr14	56145517	56145787	ClusterC	0	-	56145517	56145787	0,0,255
