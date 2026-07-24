@@ -143,7 +143,7 @@ The workflows make use of a variety of third-party software packages. Major depe
 - MAFFT
 - IQ-TREE
 - TransDecoder
-- Salmon
+- Kallisto
 - samtools
 - bedtools
 
