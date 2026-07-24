@@ -1,0 +1,174 @@
+OrganismShortName	OrganismID	OrganismColor	AnnotationSource	MAFF	MAFG	MAFK	nMAF
+hydra	Hydra_vulgaris	Nonchordates	GCF				
+flameJellyfish	Rhopilema_esculentum	Nonchordates	GCF				
+boxJellyfish	Alatina_alata	Nonchordates	GCF Near				
+scallop	Mizuhopecten_yessoensis	Nonchordates	GCF				
+octopus	Octopus_bimaculoides	Nonchordates	GCF				
+hawaiianSquid	Euprymna_scolopes	Nonchordates	GCA				
+reefSquid	Sepioteuthis_sepioidea	Nonchordates	NoGenome				
+tardigrade	Paramacrobiotus_metropolitanus	Nonchordates	GCF				
+spider	Habronattus_gilaensis	Nonchordates	NoGenome				
+norwayLobster	Nephrops_norvegicus	Nonchordates	GCF Near				
+americanLobster	Homarus_americanus	Nonchordates	GCF	americanLobster__LOC121867327__XP_042223182.1			1.0
+drosophila	Drosophila_melanogaster	Nonchordates	GCF	drosophila__maf-S__NP_001286639.1			1.0
+plastererBee	Colletes_gigas	Nonchordates	GCF	plastererBee__LOC122396420__XP_043250725.1			1.0
+acornWorm	Saccoglossus_kowalevskii	Nonchordates	GCF				
+seaurchin	Lytechinus_variegatus	Nonchordates	GCF				
+echinoderm	Anneissia_japonica	Nonchordates	GCF				
+amphioxus	Branchiostoma_floridae	Protochordates	GCF				
+vaseTunicate	Ciona_intestinalis	Protochordates	GCF	vaseTunicate__LOC778757__NP_001071818.1			1.0
+seaSquirt	Styela_clava	Protochordates	GCF	seaSquirt__LOC120331304__XP_039254309.1,seaSquirt__LOC120347869__XP_039273915.1			1.0
+atlanticHagfish	Myxine_glutinosa	Agnathans (hagfish and lampreys)	GCF				
+broadgilledHagfish	Eptatretus_cirrhatus	Agnathans (hagfish and lampreys)	NoGenome				
+pouchedLamprey	Geotria_australis	Agnathans (hagfish and lampreys)	GCA				
+shortheadLamprey	Mordacia_mordax	Agnathans (hagfish and lampreys)	GCA				
+seaLamprey	Petromyzon_marinus	Agnathans (hagfish and lampreys)	GCF				
+fareasternBrookLamprey	Lethenteron_reissneri	Agnathans (hagfish and lampreys)	GCF				
+arcticLamprey	Lethenteron_camtschaticum	Agnathans (hagfish and lampreys)	GCF Near				
+bluespottedStingray	Neotrygon_kuhlii	Cartilaginous fishes	GCF Near				
+redStingray	Hemitrygon_akajei	Cartilaginous fishes	GCF	redStingray__LOC140719078__XP_072889555.1	redStingray__mafga__XP_072882308.1	redStingray__mafk__XP_072917087.1	3.0
+catshark	Scyliorhinus_torazame	Cartilaginous fishes	GCF	catshark__LOC140403927__XP_072348285.1	catshark__LOC140395576__XP_072339627.1	catshark__mafk__XP_072337129.1	3.0
+reefShark	Carcharhinus_amblyrhynchos	Cartilaginous fishes	GCF Near				
+bambooShark	Chiloscyllium_punctatum	Cartilaginous fishes	GCF	bambooShark__LOC140488943__XP_072444262.1	bambooShark__LOC140464029__XP_072414753.1	bambooShark__mafk__XP_072415341.1	3.0
+nurseShark	Ginglymostoma_cirratum	Cartilaginous fishes	GCF Near				
+zebraShark	Stegostoma_tigrinum	Cartilaginous fishes	GCF	zebraShark__LOC125447181__XP_048377337.1	zebraShark__LOC125463828__XP_048411544.1	zebraShark__mafk__XP_048408027.1	3.0
+whaleShark	Rhincodon_typus	Cartilaginous fishes	GCF	whaleShark__LOC109925329__XP_048473543.1	whaleShark__LOC125481030__XP_048466689.1	whaleShark__mafk__XP_020382141.1	3.0
+bowfin	Amia_calva	Non-teleost ray-finned fishes	GCF Near				
+spottedGar	Lepisosteus_oculatus	Non-teleost ray-finned fishes	GCF	spottedGar__maff__XP_069053156.1	spottedGar__mafgb__XP_006635210.2	spottedGar__mafk__XP_015215295.1	3.0
+floridaGar	Lepisosteus_platyrhincus	Non-teleost ray-finned fishes	GCF Near				
+eel	Gymnothorax_saxicola	Teleost ray-finned fishes	NoGenome				
+zebrafish	Danio_rerio	Teleost ray-finned fishes	GCF	zebrafish__maff__NP_956630.1	zebrafish__mafga__XP_021325832.2,zebrafish__mafgb__XP_005169479.2	zebrafish__mafk__XP_005164260.1	3.0
+grassCarp	Ctenopharyngodon_idella	Teleost ray-finned fishes	GCF	grassCarp__maff__XP_051771291.1	grassCarp__mafga__XP_051743368.1,grassCarp__mafgb__XP_051767641.1	grassCarp__mafk__XP_051742255.1	3.0
+channelCatfish	Ictalurus_punctatus	Teleost ray-finned fishes	GCF	channelCatfish__maff__XP_017339225.1	channelCatfish__mafga__XP_053530046.1,channelCatfish__mafgb__XP_017333948.1	channelCatfish__mafk__XP_017310124.1	3.0
+yangtzeCatfish	Silurus_meridionalis	Teleost ray-finned fishes	GCF	yangtzeCatfish__maff__XP_046709373.1	yangtzeCatfish__mafga__XP_046721846.1,yangtzeCatfish__mafgb__XP_046713108.1	yangtzeCatfish__mafk__XP_046690455.1	3.0
+piranha	Pygocentrus_nattereri	Teleost ray-finned fishes	GCF	piranha__maff__XP_017560970.1	piranha__mafga__XP_017569580.1,piranha__mafgb__XP_037400945.1	piranha__mafk__XP_017562994.1	3.0
+northernPike	Esox_lucius	Teleost ray-finned fishes	GCF	northernPike__maff__XP_010893859.1	northernPike__LOC105013039__XP_010872589.1,northernPike__mafgb__XP_028978188.1	northernPike__mafk__XP_010872892.1	3.0
+lanternFish	Electrona_risso	Teleost ray-finned fishes	NoGenome				
+cod	Gadus_morhua	Teleost ray-finned fishes	GCF	cod__LOC115531400__XP_074930269.1	cod__LOC115539323__XP_030206232.1,cod__mafgb__XP_030208298.1	cod__mafk__XP_030206167.1	3.0
+tuna	Thunnus_albacares	Teleost ray-finned fishes	GCF	tuna__maff__XP_044193825.1	tuna__LOC122966582__XP_044186748.1,tuna__mafgb__XP_044202054.1	tuna__mafk__XP_044186196.1	3.0
+snakeheadFish	Channa_argus	Teleost ray-finned fishes	GCF	snakeheadFish__maff__XP_067343664.1	snakeheadFish__LOC137099843__XP_067333265.1,snakeheadFish__mafgb__XP_067354826.1	snakeheadFish__mafk__XP_067332667.1	3.0
+cichlid	Archocentrus_centrarchus	Teleost ray-finned fishes	GCF Near				
+tilapia	Oreochromis_mossambicus	Teleost ray-finned fishes	GCF Near				
+flavescentPeacockFish	Aulonocara_stuartgranti	Teleost ray-finned fishes	GCF	flavescentPeacockFish__LOC115798469__XP_074930552.1	flavescentPeacockFish__LOC115785214__XP_030592582.1,flavescentPeacockFish__mafgb__XP_030592808.1	flavescentPeacockFish__mafk__XP_030591848.1	3.0
+yellowPeacockFish	Aulonocara_baenschi	Teleost ray-finned fishes	GCF Near				
+triggerfish	Rhinecanthus_aculeatus	Teleost ray-finned fishes	GCF Near				
+oceanJacket	Nelusetta_ayraudi	Teleost ray-finned fishes	GCF	oceanJacket__maff__XP_075890875.1	oceanJacket__LOC142886990__XP_075880409.1,oceanJacket__mafgb__XP_075895695.1	oceanJacket__mafk__XP_075894952.1	3.0
+giltheadBream	Sparus_aurata	Teleost ray-finned fishes	GCF	giltheadBream__maff__XP_030257020.1	giltheadBream__LOC115576097__XP_030264467.1,giltheadBream__mafgb__XP_030252038.1	giltheadBream__mafk__XP_030264057.1	3.0
+oldwife	Enoplosus_armatus	Teleost ray-finned fishes	GCF	oldwife__maff__XP_070783430.1	oldwife__LOC139300464__XP_070779677.1,oldwife__mafgb__XP_070778961.1	oldwife__mafk__XP_070778581.1	3.0
+bluegill	Lepomis_macrochirus	Teleost ray-finned fishes	GCF Near				
+coelacanth	Latimeria_chalumnae	Lobe-finned fishes	GCF	coelacanth__LOC102353766__XP_014352934.1	coelacanth__LOC102359190__XP_064423458.1		2.0
+lungfish	Protopterus_annectens	Lobe-finned fishes	GCF	lungfish__MAFF__XP_043924399.1	lungfish__MAFG__XP_043924159.1		2.0
+tinyCaecilian	Microcaecilia_unicolor	Amphibians	GCF	tinyCaecilian__MAFF__XP_030064149.1	tinyCaecilian__LOC115462212__XP_030048085.1,tinyCaecilian__MAFG__XP_030061033.1	tinyCaecilian__MAFK__XP_030068393.1	3.0
+twolinedCaecilian	Rhinatrema_bivittatum	Amphibians	GCF	twolinedCaecilian__MAFF__XP_029446022.1	twolinedCaecilian__MAFG__XP_029454938.1	twolinedCaecilian__MAFK__XP_029432539.1	3.0
+chineseSalamander	Andrias_davidianus	Amphibians	GCF Near				
+axolotl	Ambystoma_mexicanum	Amphibians	GCF	axolotl__MAFF__XP_069509081.1	axolotl__MAFG__XP_069511406.1	axolotl__MAFK__XP_069503740.1	3.0
+redSalamander	Plethodon_cinereus	Amphibians	GCF Near				
+himalayaFrog	Nanorana_parkeri	Amphibians	GCF	himalayaFrog__MAFF__XP_018426547.1	himalayaFrog__MAFG__XP_018409131.1	himalayaFrog__MAFK__XP_018412616.1	3.0
+westernFrog	Xenopus_tropicalis	Amphibians	GCF	westernFrog__maff__XP_002934281.1	westernFrog__mafg__XP_004916428.1	westernFrog__mafk__XP_031748285.1	3.0
+africanFrog	Xenopus_laevis	Amphibians	GCF	africanFrog__maff.L__XP_018114367.1,africanFrog__maff.S__XP_018115181.1	africanFrog__mafg.L__XP_041432720.1	africanFrog__mafk.L__XP_041432184.1,africanFrog__mafk.S__XP_018094625.1	3.0
+tokayGecko	Gekko_gecko	Squamata (lizards and snakes)	GCF Near				
+japaneseGecko	Gekko_japonicus	Squamata (lizards and snakes)	GCF	japaneseGecko__MAFF__XP_015274659.1	japaneseGecko__MAFG__XP_015275850.1	japaneseGecko__MAFK__XP_015276628.1	3.0
+sandLizard	Lacerta_agilis	Squamata (lizards and snakes)	GCF	sandLizard__MAFF__XP_033018043.1	sandLizard__MAFG__XP_032994994.1	sandLizard__MAFK__XP_033022525.1	3.0
+tawnyDragon	Ctenophorus_decresii	Squamata (lizards and snakes)	GCF Near				
+beardedDragon	Pogona_vitticeps	Squamata (lizards and snakes)	GCF	beardedDragon__MAFF__XP_020643246.1	beardedDragon__MAFG__XP_020670010.1	beardedDragon__MAFK__XP_020659950.1	3.0
+greenAnole	Anolis_carolinensis	Squamata (lizards and snakes)	GCF	greenAnole__maff__XP_003227196.2	greenAnole__mafg__XP_008102792.1	greenAnole__mafk__XP_008116599.1	3.0
+brownAnole	Anolis_sagrei	Squamata (lizards and snakes)	GCF	brownAnole__MAFF__XP_060633020.1	brownAnole__MAFG__XP_060620842.1	brownAnole__LOC132782144__XP_060642834.2,brownAnole__LOC137095487__XP_067318314.1	3.0
+python	Python_bivittatus	Squamata (lizards and snakes)	GCF	python__MAFF__XP_025025777.1	python__MAFG__XP_007427839.1	python__MAFK__XP_007442315.1	3.0
+groundBoa	Candoia_aspera	Squamata (lizards and snakes)	GCF	groundBoa__MAFF__XP_063164167.1	groundBoa__MAFG__XP_063149356.1	groundBoa__MAFK__XP_063170913.1	3.0
+cobra	Naja_naja	Squamata (lizards and snakes)	GCF Near				
+garterSnake	Thamnophis_sirtalis	Squamata (lizards and snakes)	GCF	garterSnake__MAFF__XP_013910419.1	garterSnake__MAFG__XP_013916963.1	garterSnake__MAFK__XP_013916685.1	3.0
+cornSnake	Pantherophis_guttatus	Squamata (lizards and snakes)	GCF	cornSnake__MAFF__XP_034259519.1	cornSnake__MAFG__XP_034268786.1	cornSnake__MAFK__XP_034297459.1	3.0
+greenTurtle	Chelonia_mydas	Turtles	GCF	greenTurtle__MAFF__XP_043399227.1	greenTurtle__MAFG__XP_037770029.1	greenTurtle__MAFK__XP_007065416.2	3.0
+redTurtle	Trachemys_scripta	Turtles	GCF	redTurtle__MAFF__XP_034632554.1	redTurtle__MAFG__XP_034645930.1	redTurtle__MAFK__XP_034638928.1	3.0
+americanAlligator	Alligator_mississippiensis	Crocodiles	GCF	americanAlligator__MAFF__XP_059582394.1	americanAlligator__MAFG__XP_006270717.1	americanAlligator__MAFK__XP_019350258.2	3.0
+chineseAlligator	Alligator_sinensis	Crocodiles	GCF	chineseAlligator__MAFF__XP_014378316.1	chineseAlligator__MAFG__XP_006038228.1	chineseAlligator__MAFK__XP_025068149.1	3.0
+emu	Dromaius_novaehollandiae	Birds	GCF	emu__MAFF__XP_025957942.2	emu__MAFG__XP_064379007.1	emu__MAFK__XP_064376262.1	3.0
+ostrich	Struthio_camelus	Birds	GCF	ostrich__MAFF__XP_068798295.1	ostrich__MAFG__XP_009667074.2	ostrich__MAFK__XP_068764117.1	3.0
+mallardDuck	Anas_platyrhynchos	Birds	GCF	mallardDuck__MAFF__XP_027306343.1	mallardDuck__MAFG__XP_005011602.1	mallardDuck__MAFK__XP_071880198.1	3.0
+muscovyDuck	Cairina_moschata	Birds	GCF Near				
+quail	Coturnix_japonica	Birds	GCF	quail__MAFF__XP_015718579.1	quail__MAFG__XP_015735390.1	quail__MAFK__XP_015732262.1	3.0
+chicken	Gallus_gallus	Birds	GCF	chicken__MAFF__XP_046760163.1	chicken__MAFG__XP_015150912.1	chicken__MAFK__XP_040503249.1	3.0
+redStreamertail	Trochilus_polytmus	Birds	NoGenome				
+blackStreamertail	Trochilus_scitulus	Birds	NoGenome				
+hybridStreamertail	Trochilus_hybrid	Birds	NoGenome				
+pigeon	Columba_livia	Birds	GCF	pigeon__MAFF__XP_064903426.1	pigeon__MAFG__XP_064890380.1	pigeon__MAFK__XP_064887576.1	3.0
+kite	Elanus_caeruleus	Birds	GCF Near				
+goldenEagle	Aquila_chrysaetos	Birds	GCF	goldenEagle__MAFF__XP_029896324.1	goldenEagle__MAFG__XP_040979213.1	goldenEagle__MAFK__XP_029857514.1	3.0
+vulture	Aegypius_monachus	Birds	GCF Near				
+harpyEagle	Harpia_harpyja	Birds	GCF	harpyEagle__MAFF__XP_052646533.1	harpyEagle__MAFG__XP_052662950.1	harpyEagle__MAFK__XP_052628487.1	3.0
+harrier	Circus_melanoleucos	Birds	GCF Near				
+greyfacedBuzzard	Butastur_indicus	Birds	GCF Near				
+commonBuzzard	Buteo_buteo	Birds	GCF	commonBuzzard__MAFF__XP_074907107.1	commonBuzzard__MAFG__XP_074900176.1	commonBuzzard__MAFK__XP_074914901.1	3.0
+redTailHawk	Buteo_jamaicensis	Birds	GCF Near				
+gosHwak	Astur_gentilis	Birds	GCF	gosHwak__MAFF__XP_049677759.1	gosHwak__MAFG__XP_049668419.1	gosHwak__MAFK__XP_049647588.1	3.0
+coopersHawk	Accipiter_cooperii	Birds	Ensembl Near				
+besra	Accipiter_virgatus	Birds	Ensembl Near				
+sparrowHawk	Accipiter_nisus	Birds	Ensembl		sparrowHawk__gene_ENSANIG00000017332__ENSANIP00000025770	sparrowHawk__gene_ENSANIG00000015949__ENSANIP00000023462	2.0
+barnOwl	Tyto_alba	Birds	GCF	barnOwl__MAFF__XP_042648826.1	barnOwl__MAFG__XP_032857737.1	barnOwl__MAFK__XP_032848226.1	3.0
+grassOwl	Tyto_longimembris	Birds	GCF Near				
+borealOwl	Aegolius_funereus	Birds	GCF Near				
+littleOwl	Athene_noctua	Birds	GCF	littleOwl__MAFF__XP_074758587.1	littleOwl__MAFG__XP_074778000.1	littleOwl__MAFK__XP_074774914.1	3.0
+eurasianScopsOwl	Otus_scops	Birds	GCA				
+indianScopsOwl	Otus_bakkamoena	Birds	NoGenome				
+shortearOwl	Asio_flammeus	Birds	NoGenome				
+longearOwl	Asio_otus	Birds	NoGenome				
+screechOwl	Megascops_asio	Birds	GCA				
+barredOwl	Strix_varia	Birds	GCF Near				
+uralOwl	Strix_uralensis	Birds	GCF	uralOwl__MAFF__XP_074727268.1	uralOwl__MAFG__XP_074745849.1	uralOwl__MAFK__XP_074742748.1	3.0
+tawnyOwl	Strix_aluco	Birds	GCF	tawnyOwl__MAFF__XP_074682748.1	tawnyOwl__MAFG__XP_074703746.1	tawnyOwl__MAFK__XP_074697581.1	3.0
+eagleOwl	Bubo_bubo	Birds	Ensembl	eagleOwl__gene_ENSBOBG00000006606__ENSBOBP00000010285	eagleOwl__gene_ENSBOBG00000014112__ENSBOBP00000023575	eagleOwl__gene_ENSBOBG00000007138__ENSBOBP00000011205	3.0
+hornedOwl	Bubo_virginianus	Birds	GCA				
+mousebird	Colius_striatus	Birds	GCF	mousebird__MAFF__XP_061868468.1	mousebird__MAFG__XP_061867004.1	mousebird__MAFK__XP_061848223.1	3.0
+hoopoe	Upupa_epops	Birds	GCF Near				
+honeyguide	Indicator_indicator	Birds	GCF	honeyguide__MAFF__XP_054242609.1	honeyguide__MAFG__XP_054249713.1	honeyguide__MAFK__XP_054247354.1	3.0
+woodpecker	Picus_canus	Birds	GCF Near				
+budgerigar	Melopsittacus_undulatus	Birds	GCF	budgerigar__MAFF__XP_033918644.1	budgerigar__MAFG__XP_033923786.1	budgerigar__MAFK__XP_030901453.1	3.0
+commonKestrel	Falco_tinnunculus	Birds	Ensembl	commonKestrel__gene_ENSFTIG00000014670__ENSFTIP00000022774	commonKestrel__gene_ENSFTIG00000000206__ENSFTIP00000000282	commonKestrel__gene_ENSFTIG00000004082__ENSFTIP00000005895	3.0
+peregrineFalcon	Falco_peregrinus	Birds	GCF	peregrineFalcon__MAFF__XP_055665148.1	peregrineFalcon__MAFG__XP_055653462.1	peregrineFalcon__MAFK__XP_055660914.1	3.0
+eurasianHobby	Falco_subbuteo	Birds	GCF Near				
+hawaiianCrow	Corvus_hawaiiensis	Birds	GCF	hawaiianCrow__MAFF__XP_048158218.1		hawaiianCrow__MAFK__XP_048176356.1	2.0
+carrionCrow	Corvus_corone	Birds	GCF Near				
+hoodedCrow	Corvus_cornix	Birds	GCF	hoodedCrow__MAFF__XP_039427476.1	hoodedCrow__MAFG__XP_039418133.1	hoodedCrow__MAFK__XP_010390714.1	3.0
+whiteWagtail	Motacilla_alba	Birds	GCF	whiteWagtail__MAFF__XP_038009455.1	whiteWagtail__MAFG__XP_038012979.1	whiteWagtail__MAFK__XP_038006777.1	3.0
+canary	Serinus_canaria	Birds	GCF	canary__MAFF__XP_009084748.1	canary__MAFG__XP_030087135.1	canary__MAFK__XP_018771431.1	3.0
+zebrafinch	Taeniopygia_guttata	Birds	GCF	zebrafinch__MAFF__XP_030118873.1	zebrafinch__MAFG__XP_030143375.1	zebrafinch__MAFK__XP_072792010.1	3.0
+platypus	Ornithorhynchus_anatinus	Mammals	GCF	platypus__MAFF__XP_028935268.1	platypus__MAFG__XP_028912595.1	platypus__MAFK__XP_001514510.2	3.0
+opossum	Monodelphis_domestica	Mammals	GCF	opossum__MAFF__XP_056654910.1	opossum__MAFG__XP_007482908.1	opossum__MAFK__XP_007498385.1	3.0
+europeanHedgehog	Erinaceus_europaeus	Mammals	GCF	europeanHedgehog__MAFF__XP_060044945.1	europeanHedgehog__MAFG__XP_060027730.1	europeanHedgehog__MAFK__XP_007525129.1	3.0
+africanHedgehog	Atelerix_algirus	Mammals	GCF Near				
+sacwingedBat	Saccopteryx_bilineata	Mammals	GCF	sacwingedBat__MAFF__XP_066114419.1	sacwingedBat__MAFG__XP_066093539.1	sacwingedBat__MAFK__XP_066129634.1	3.0
+tombBat	Taphozous_melanopogon	Mammals	GCF Near				
+daubentonBat	Myotis_daubentonii	Mammals	GCF	daubentonBat__MAFF__XP_059537548.1	daubentonBat__MAFG__XP_059527539.1	daubentonBat__MAFK__XP_059555425.1	3.0
+myotisBat	Myotis_laniger	Mammals	GCF Near				
+roundleafBat	Hipposideros_armiger	Mammals	GCF	roundleafBat__MAFF__XP_019520114.1	roundleafBat__MAFG__XP_019517383.1	roundleafBat__MAFK__XP_019493117.1	3.0
+fruitBat	Cynopterus_sphinx	Mammals	GCF Near				
+egyptianBat	Rousettus_aegyptiacus	Mammals	GCF	egyptianBat__MAFF__XP_036093375.1	egyptianBat__MAFG__XP_016019320.1	egyptianBat__MAFK__XP_015974595.1	3.0
+nectarBat	Eonycteris_spelaea	Mammals	GCF Near				
+horse	Equus_caballus	Mammals	GCF	horse__MAFF__XP_023487201.1	horse__MAFG__XP_005597102.2	horse__MAFK__XP_023510876.1	3.0
+pig	Sus_scrofa	Mammals	GCF	pig__MAFF__XP_013843663.1	pig__MAFG__XP_020922083.1	pig__MAFK__XP_003124297.1	3.0
+minkeWhale	Balaenoptera_acutorostrata	Mammals	GCF	minkeWhale__MAFF__XP_057413363.1	minkeWhale__MAFG__XP_028023182.1	minkeWhale__MAFK__XP_057385102.1	3.0
+bowheadWhale	Balaena_mysticetus	Mammals	GCF Near				
+cow	Bos_taurus	Mammals	GCF	cow__MAFF__XP_024847998.1	cow__MAFG__XP_059734011.1	cow__MAFK__XP_005225295.1	3.0
+sheep	Ovis_aries	Mammals	GCF	sheep__MAFF__XP_042103658.1	sheep__MAFG__XP_042112177.1	sheep__MAFK__XP_027817076.1	3.0
+cat	Felis_catus	Mammals	GCF	cat__MAFF__XP_023113493.1	cat__MAFG__XP_019673944.2	cat__MAFK__XP_044903301.1	3.0
+dog	Canis_familiaris	Mammals	GCF	dog__MAFF__XP_038407500.1	dog__MAFG__XP_038402227.1	dog__MAFK__XP_038395595.1	3.0
+ferret	Mustela_furo	Mammals	GCF	ferret__MAFF__XP_004743278.1	ferret__MAFG__XP_004748742.1	ferret__MAFK__XP_044931115.1	3.0
+treeShrew	Tupaia_belangeri	Mammals	Custom	treeShrew__MAFF__TSDBTID.24461.1		treeShrew__MAFK__TSDBTID.12800.2	2.0
+guineapig	Cavia_porcellus	Mammals	GCF	guineapig__Maff__XP_063099865.1	guineapig__Mafg__XP_005001512.1	guineapig__Mafk__XP_063090094.1	3.0
+groundSquirrel	Ictidomys_tridecemlineatus	Mammals	GCF	groundSquirrel__Maff__XP_005322482.1	groundSquirrel__Mafg__XP_021586965.2	groundSquirrel__Mafk__XP_005339892.1	3.0
+chipmunk	Tamias_sibiricus	Mammals	GCA				
+blindMoleRat	Nannospalax_galili	Mammals	GCF	blindMoleRat__Maff__XP_008849486.1	blindMoleRat__Mafg__XP_029416972.1	blindMoleRat__Mafk__XP_017658288.1	3.0
+zokor	Myospalax_baileyi	Mammals	GCF Near				
+hamster	Mesocricetus_auratus	Mammals	GCF	hamster__Maff__XP_040610079.1	hamster__Mafg__XP_012968772.1	hamster__Mafk__XP_005080042.1	3.0
+deerMouse	Peromyscus_maniculatus	Mammals	GCF	deerMouse__Maff__XP_006979206.1	deerMouse__Mafg__XP_042139187.1	deerMouse__Mafk__XP_015864857.1	3.0
+gerbil	Meriones_unguiculatus	Mammals	GCF	gerbil__Maff__XP_021517277.2	gerbil__Mafg__XP_021493069.1	gerbil__Mafk__XP_021496398.1	3.0
+sandRat	Psammomys_obesus	Mammals	GCF	sandRat__Maff__XP_055458888.1	sandRat__Mafg__XP_055448662.1	sandRat__Mafk__XP_055454539.1	3.0
+grassMouse	Rhabdomys_pumilio	Mammals	Custom	grassMouse__Maff__Maff-T1	grassMouse__Mafg__Mafg-T1	grassMouse__Mafk__Mafk-T1	3.0
+brownRat	Rattus_norvegicus	Mammals	GCF	brownRat__Maff__NP_001124045.1	brownRat__Mafg__NP_071781.1	brownRat__Mafk__NP_663706.2	3.0
+labMouse	Mus_musculus	Mammals	GCF	labMouse__Maff__NP_034885.1	labMouse__Mafg__NP_034886.1	labMouse__Mafk__NP_034887.1	3.0
+marmoset	Callithrix_jacchus	Mammals	GCF	marmoset__MAFF__XP_035128467.1	marmoset__MAFG__XP_035158027.1	marmoset__MAFK__XP_035145692.2	3.0
+nancymaMonkey	Aotus_nancymaae	Mammals	GCF	nancymaMonkey__MAFF__XP_012314355.1	nancymaMonkey__MAFG__XP_012308133.2	nancymaMonkey__MAFK__XP_012326328.2	3.0
+oliveBaboon	Papio_anubis	Mammals	GCF	oliveBaboon__MAFF__XP_017800799.1	oliveBaboon__MAFG__XP_021784144.1	oliveBaboon__MAFK__XP_003895698.1	3.0
+crabMacaque	Macaca_fascicularis	Mammals	GCF	crabMacaque__MAFF__XP_005567368.3	crabMacaque__MAFG__XP_065388225.1	crabMacaque__MAFK__XP_065397606.1	3.0
+rhesusMacaque	Macaca_mulatta	Mammals	GCF	rhesusMacaque__MAFF__XP_001092994.2	rhesusMacaque__MAFG__NP_001181498.1	rhesusMacaque__MAFK__XP_028701319.1	3.0
+human	Homo_sapiens	Mammals	GCF	human__MAFF__NP_036455.1	human__MAFG__NP_002350.1	human__MAFK__NP_002351.1	3.0

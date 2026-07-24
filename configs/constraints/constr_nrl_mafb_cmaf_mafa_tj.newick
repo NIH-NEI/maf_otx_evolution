@@ -1,0 +1,25 @@
+(
+ (
+  (
+   (
+    human__NRL__NP_001341697.1,
+    seaLamprey__LOC116944233__XP_032813639.2
+   ),
+   (
+    human__MAFB__NP_005452.2,
+    atlanticHagfish__MAFB__XP_067963301.1
+   )
+  ),
+  (
+   (
+    human__MAF__NP_005351.2,
+    seaLamprey__LOC116956089__XP_032833429.2
+   ),
+   (
+    human__MAFA__NP_963883.2,
+    seaLamprey__LOC116945741__XP_075925866.1
+   )
+  )
+ ),
+ drosophila__tj__NP_001260582.1
+);

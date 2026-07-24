@@ -1,0 +1,336 @@
+ProteinID	TPM_max	OrganismColor	GeneGroup	HMM
+atlanticHagfish__LOC137423368__XP_067966540.1		Agnathans (hagfish and lampreys)	MAFS1A	pred
+brownHagfish__MAFK__EA42108.1		Agnathans (hagfish and lampreys)	MAFS1A	pred
+europeanRiverLamprey__POLR3C__LAFLM00000001989		Agnathans (hagfish and lampreys)	MAFS1A	pred
+fareasternBrookLamprey__LOC133347959__XP_061416707.1		Agnathans (hagfish and lampreys)	MAFS1A	pred
+inshoreHagfish__mafk__ENSEBUP00000020580		Agnathans (hagfish and lampreys)	MAFS1A	pred
+seaLamprey__LOC116958264__XP_075908512.1		Agnathans (hagfish and lampreys)	MAFS1A	pred
+africanFrog__maff.L__XP_018114367.1		Amphibians	MAFF	train
+africanFrog__maff.S__XP_018115181.1		Amphibians	MAFF	train
+axolotl__MAFF__XP_069509081.1		Amphibians	MAFF	train
+himalayaFrog__MAFF__XP_018426547.1		Amphibians	MAFF	train
+tinyCaecilian__MAFF__XP_030064149.1		Amphibians	MAFF	train
+twolinedCaecilian__MAFF__XP_029446022.1		Amphibians	MAFF	train
+westernFrog__maff__XP_002934281.1		Amphibians	MAFF	train
+africanFrog__mafg.L__XP_041432720.1		Amphibians	MAFG	train
+axolotl__MAFG__XP_069511406.1		Amphibians	MAFG	train
+himalayaFrog__MAFG__XP_018409131.1		Amphibians	MAFG	train
+tinyCaecilian__LOC115462212__XP_030048085.1		Amphibians	MAFG	train
+tinyCaecilian__MAFG__XP_030061033.1		Amphibians	MAFG	train
+twolinedCaecilian__MAFG__XP_029454938.1		Amphibians	MAFG	train
+westernFrog__mafg__XP_004916428.1		Amphibians	MAFG	train
+africanFrog__mafk.L__XP_041432184.1		Amphibians	MAFK	train
+africanFrog__mafk.S__XP_018094625.1		Amphibians	MAFK	train
+axolotl__MAFK__XP_069503740.1		Amphibians	MAFK	train
+himalayaFrog__MAFK__XP_018412616.1		Amphibians	MAFK	train
+tinyCaecilian__MAFK__XP_030068393.1		Amphibians	MAFK	train
+twolinedCaecilian__MAFK__XP_029432539.1		Amphibians	MAFK	train
+westernFrog__mafk__XP_031748285.1		Amphibians	MAFK	train
+barnOwl__MAFF__XP_042648826.1		Birds	MAFF	train
+budgerigar__MAFF__XP_033918644.1		Birds	MAFF	train
+canary__MAFF__XP_009084748.1		Birds	MAFF	train
+chicken__MAFF__XP_046760163.1		Birds	MAFF	train
+commonBuzzard__MAFF__XP_074907107.1		Birds	MAFF	train
+commonKestrel__gene_ENSFTIG00000014670__ENSFTIP00000022774		Birds	MAFF	train
+eagleOwl__gene_ENSBOBG00000006606__ENSBOBP00000010285		Birds	MAFF	train
+emu__MAFF__XP_025957942.2		Birds	MAFF	train
+goldenEagle__MAFF__XP_029896324.1		Birds	MAFF	train
+gosHwak__MAFF__XP_049677759.1		Birds	MAFF	train
+harpyEagle__MAFF__XP_052646533.1		Birds	MAFF	train
+hawaiianCrow__MAFF__XP_048158218.1		Birds	MAFF	train
+honeyguide__MAFF__XP_054242609.1		Birds	MAFF	train
+hoodedCrow__MAFF__XP_039427476.1		Birds	MAFF	train
+littleOwl__MAFF__XP_074758587.1		Birds	MAFF	train
+mallardDuck__MAFF__XP_027306343.1		Birds	MAFF	train
+mousebird__MAFF__XP_061868468.1		Birds	MAFF	train
+orientalScopsOwl__ENSOSUG00000008403__ENSOSUP00000011635		Birds	MAFF	train
+ostrich__MAFF__XP_068798295.1		Birds	MAFF	train
+peregrineFalcon__MAFF__XP_055665148.1		Birds	MAFF	train
+pigeon__MAFF__XP_064903426.1		Birds	MAFF	train
+quail__MAFF__XP_015718579.1		Birds	MAFF	train
+sunangel__MAFF__XP_071586930.1		Birds	MAFF	train
+tawnyOwl__MAFF__XP_074682748.1		Birds	MAFF	train
+uralOwl__MAFF__XP_074727268.1		Birds	MAFF	train
+whiteWagtail__MAFF__XP_038009455.1		Birds	MAFF	train
+zebrafinch__MAFF__XP_030118873.1		Birds	MAFF	train
+barnOwl__MAFG__XP_032857737.1		Birds	MAFG	train
+budgerigar__MAFG__XP_033923786.1		Birds	MAFG	train
+canary__MAFG__XP_030087135.1		Birds	MAFG	train
+chicken__MAFG__XP_015150912.1		Birds	MAFG	train
+commonBuzzard__MAFG__XP_074900176.1		Birds	MAFG	train
+commonKestrel__gene_ENSFTIG00000000206__ENSFTIP00000000282		Birds	MAFG	train
+eagleOwl__gene_ENSBOBG00000014112__ENSBOBP00000023575		Birds	MAFG	train
+emu__MAFG__XP_064379007.1		Birds	MAFG	train
+goldenEagle__MAFG__XP_040979213.1		Birds	MAFG	train
+gosHwak__MAFG__XP_049668419.1		Birds	MAFG	train
+harpyEagle__MAFG__XP_052662950.1		Birds	MAFG	train
+honeyguide__MAFG__XP_054249713.1		Birds	MAFG	train
+hoodedCrow__MAFG__XP_039418133.1		Birds	MAFG	train
+littleOwl__MAFG__XP_074778000.1		Birds	MAFG	train
+mallardDuck__MAFG__XP_005011602.1		Birds	MAFG	train
+mousebird__MAFG__XP_061867004.1		Birds	MAFG	train
+orientalScopsOwl__ENSOSUG00000008076__ENSOSUP00000011154		Birds	MAFG	train
+ostrich__MAFG__XP_009667074.2		Birds	MAFG	train
+peregrineFalcon__MAFG__XP_055653462.1		Birds	MAFG	train
+pigeon__MAFG__XP_064890380.1		Birds	MAFG	train
+quail__MAFG__XP_015735390.1		Birds	MAFG	train
+sparrowHawk__gene_ENSANIG00000017332__ENSANIP00000025770		Birds	MAFG	train
+sunangel__MAFG__XP_071620544.1		Birds	MAFG	train
+tawnyOwl__MAFG__XP_074703746.1		Birds	MAFG	train
+uralOwl__MAFG__XP_074745849.1		Birds	MAFG	train
+whiteWagtail__MAFG__XP_038012979.1		Birds	MAFG	train
+zebrafinch__MAFG__XP_030143375.1		Birds	MAFG	train
+barnOwl__MAFK__XP_032848226.1		Birds	MAFK	train
+budgerigar__MAFK__XP_030901453.1		Birds	MAFK	train
+canary__MAFK__XP_018771431.1		Birds	MAFK	train
+chicken__MAFK__XP_040503249.1		Birds	MAFK	train
+commonBuzzard__MAFK__XP_074914901.1		Birds	MAFK	train
+commonKestrel__gene_ENSFTIG00000004082__ENSFTIP00000005895		Birds	MAFK	train
+eagleOwl__gene_ENSBOBG00000007138__ENSBOBP00000011205		Birds	MAFK	train
+emu__MAFK__XP_064376262.1		Birds	MAFK	train
+goldenEagle__MAFK__XP_029857514.1		Birds	MAFK	train
+gosHwak__MAFK__XP_049647588.1		Birds	MAFK	train
+harpyEagle__MAFK__XP_052628487.1		Birds	MAFK	train
+hawaiianCrow__MAFK__XP_048176356.1		Birds	MAFK	train
+honeyguide__MAFK__XP_054247354.1		Birds	MAFK	train
+hoodedCrow__MAFK__XP_010390714.1		Birds	MAFK	train
+littleOwl__MAFK__XP_074774914.1		Birds	MAFK	train
+mallardDuck__MAFK__XP_071880198.1		Birds	MAFK	train
+mousebird__MAFK__XP_061848223.1		Birds	MAFK	train
+orientalScopsOwl__ENSOSUG00000005258__ENSOSUP00000007070		Birds	MAFK	train
+ostrich__MAFK__XP_068764117.1		Birds	MAFK	train
+peregrineFalcon__MAFK__XP_055660914.1		Birds	MAFK	train
+pigeon__MAFK__XP_064887576.1		Birds	MAFK	train
+quail__MAFK__XP_015732262.1		Birds	MAFK	train
+sparrowHawk__gene_ENSANIG00000015949__ENSANIP00000023462		Birds	MAFK	train
+sunangel__MAFK__XP_071617088.1		Birds	MAFK	train
+tawnyOwl__MAFK__XP_074697581.1		Birds	MAFK	train
+uralOwl__MAFK__XP_074742748.1		Birds	MAFK	train
+whiteWagtail__MAFK__XP_038006777.1		Birds	MAFK	train
+zebrafinch__MAFK__XP_072792010.1		Birds	MAFK	train
+bambooShark__LOC140488943__XP_072444262.1		Cartilaginous fishes	MAFF	train
+catshark__LOC140403927__XP_072348285.1		Cartilaginous fishes	MAFF	train
+redStingray__LOC140719078__XP_072889555.1		Cartilaginous fishes	MAFF	train
+whaleShark__LOC109925329__XP_048473543.1		Cartilaginous fishes	MAFF	train
+zebraShark__LOC125447181__XP_048377337.1		Cartilaginous fishes	MAFF	train
+bambooShark__LOC140464029__XP_072414753.1		Cartilaginous fishes	MAFG	train
+catshark__LOC140395576__XP_072339627.1		Cartilaginous fishes	MAFG	train
+redStingray__mafga__XP_072882308.1		Cartilaginous fishes	MAFG	train
+whaleShark__LOC125481030__XP_048466689.1		Cartilaginous fishes	MAFG	train
+zebraShark__LOC125463828__XP_048411544.1		Cartilaginous fishes	MAFG	train
+bambooShark__mafk__XP_072415341.1		Cartilaginous fishes	MAFK	train
+catshark__mafk__XP_072337129.1		Cartilaginous fishes	MAFK	train
+redStingray__mafk__XP_072917087.1		Cartilaginous fishes	MAFK	train
+whaleShark__mafk__XP_020382141.1		Cartilaginous fishes	MAFK	train
+zebraShark__mafk__XP_048408027.1		Cartilaginous fishes	MAFK	train
+americanAlligator__MAFF__XP_059582394.1		Crocodiles	MAFF	train
+chineseAlligator__MAFF__XP_014378316.1		Crocodiles	MAFF	train
+americanAlligator__MAFG__XP_006270717.1		Crocodiles	MAFG	train
+chineseAlligator__MAFG__XP_006038228.1		Crocodiles	MAFG	train
+americanAlligator__MAFK__XP_019350258.2		Crocodiles	MAFK	train
+chineseAlligator__MAFK__XP_025068149.1		Crocodiles	MAFK	train
+coelacanth__LOC102353766__XP_014352934.1		Lobe-finned fishes	MAFF	train
+lungfish__MAFF__XP_043924399.1		Lobe-finned fishes	MAFF	train
+coelacanth__LOC102359190__XP_064423458.1		Lobe-finned fishes	MAFG	train
+lungfish__MAFG__XP_043924159.1		Lobe-finned fishes	MAFG	train
+blindMoleRat__Maff__XP_008849486.1		Mammals	MAFF	train
+brownRat__Maff__NP_001124045.1		Mammals	MAFF	train
+cat__MAFF__XP_023113493.1		Mammals	MAFF	train
+cow__MAFF__XP_024847998.1		Mammals	MAFF	train
+crabMacaque__MAFF__XP_005567368.3		Mammals	MAFF	train
+daubentonBat__MAFF__XP_059537548.1		Mammals	MAFF	train
+deerMouse__Maff__XP_006979206.1		Mammals	MAFF	train
+dog__MAFF__XP_038407500.1		Mammals	MAFF	train
+egyptianBat__MAFF__XP_036093375.1		Mammals	MAFF	train
+europeanHedgehog__MAFF__XP_060044945.1		Mammals	MAFF	train
+ferret__MAFF__XP_004743278.1		Mammals	MAFF	train
+gerbil__Maff__XP_021517277.2		Mammals	MAFF	train
+grassMouse__Maff__Maff_T1		Mammals	MAFF	train
+groundSquirrel__Maff__XP_005322482.1		Mammals	MAFF	train
+guineapig__Maff__XP_063099865.1		Mammals	MAFF	train
+hamster__Maff__XP_040610079.1		Mammals	MAFF	train
+horse__MAFF__XP_023487201.1		Mammals	MAFF	train
+human__MAFF__NP_036455.1		Mammals	MAFF	train
+labMouse__Maff__NP_034885.1		Mammals	MAFF	train
+marmoset__MAFF__XP_035128467.1		Mammals	MAFF	train
+minkeWhale__MAFF__XP_057413363.1		Mammals	MAFF	train
+nancymaMonkey__MAFF__XP_012314355.1		Mammals	MAFF	train
+oliveBaboon__MAFF__XP_017800799.1		Mammals	MAFF	train
+opossum__MAFF__XP_056654910.1		Mammals	MAFF	train
+pig__MAFF__XP_013843663.1		Mammals	MAFF	train
+platypus__MAFF__XP_028935268.1		Mammals	MAFF	train
+rhesusMacaque__MAFF__XP_001092994.2		Mammals	MAFF	train
+roundleafBat__MAFF__XP_019520114.1		Mammals	MAFF	train
+sacwingedBat__MAFF__XP_066114419.1		Mammals	MAFF	train
+sandRat__Maff__XP_055458888.1		Mammals	MAFF	train
+sheep__MAFF__XP_042103658.1		Mammals	MAFF	train
+treeShrew__MAFF__TSDBTID.24461.1		Mammals	MAFF	train
+blindMoleRat__Mafg__XP_029416972.1		Mammals	MAFG	train
+brownRat__Mafg__NP_071781.1		Mammals	MAFG	train
+cat__MAFG__XP_019673944.2		Mammals	MAFG	train
+cow__MAFG__XP_059734011.1		Mammals	MAFG	train
+crabMacaque__MAFG__XP_065388225.1		Mammals	MAFG	train
+daubentonBat__MAFG__XP_059527539.1		Mammals	MAFG	train
+deerMouse__Mafg__XP_042139187.1		Mammals	MAFG	train
+dog__MAFG__XP_038402227.1		Mammals	MAFG	train
+egyptianBat__MAFG__XP_016019320.1		Mammals	MAFG	train
+europeanHedgehog__MAFG__XP_060027730.1		Mammals	MAFG	train
+ferret__MAFG__XP_004748742.1		Mammals	MAFG	train
+gerbil__Mafg__XP_021493069.1		Mammals	MAFG	train
+grassMouse__Mafg__Mafg_T1		Mammals	MAFG	train
+groundSquirrel__Mafg__XP_021586965.2		Mammals	MAFG	train
+guineapig__Mafg__XP_005001512.1		Mammals	MAFG	train
+hamster__Mafg__XP_012968772.1		Mammals	MAFG	train
+horse__MAFG__XP_005597102.2		Mammals	MAFG	train
+human__MAFG__NP_002350.1		Mammals	MAFG	train
+labMouse__Mafg__NP_034886.1		Mammals	MAFG	train
+marmoset__MAFG__XP_035158027.1		Mammals	MAFG	train
+minkeWhale__MAFG__XP_028023182.1		Mammals	MAFG	train
+nancymaMonkey__MAFG__XP_012308133.2		Mammals	MAFG	train
+oliveBaboon__MAFG__XP_021784144.1		Mammals	MAFG	train
+opossum__MAFG__XP_007482908.1		Mammals	MAFG	train
+pig__MAFG__XP_020922083.1		Mammals	MAFG	train
+rhesusMacaque__MAFG__NP_001181498.1		Mammals	MAFG	train
+roundleafBat__MAFG__XP_019517383.1		Mammals	MAFG	train
+sacwingedBat__MAFG__XP_066093539.1		Mammals	MAFG	train
+sandRat__Mafg__XP_055448662.1		Mammals	MAFG	train
+sheep__MAFG__XP_042112177.1		Mammals	MAFG	train
+blindMoleRat__Mafk__XP_017658288.1		Mammals	MAFK	train
+brownRat__Mafk__NP_663706.2		Mammals	MAFK	train
+cat__MAFK__XP_044903301.1		Mammals	MAFK	train
+cow__MAFK__XP_005225295.1		Mammals	MAFK	train
+crabMacaque__MAFK__XP_065397606.1		Mammals	MAFK	train
+daubentonBat__MAFK__XP_059555425.1		Mammals	MAFK	train
+deerMouse__Mafk__XP_015864857.1		Mammals	MAFK	train
+dog__MAFK__XP_038395595.1		Mammals	MAFK	train
+egyptianBat__MAFK__XP_015974595.1		Mammals	MAFK	train
+europeanHedgehog__MAFK__XP_007525129.1		Mammals	MAFK	train
+ferret__MAFK__XP_044931115.1		Mammals	MAFK	train
+gerbil__Mafk__XP_021496398.1		Mammals	MAFK	train
+grassMouse__Mafk__Mafk_T1		Mammals	MAFK	train
+groundSquirrel__Mafk__XP_005339892.1		Mammals	MAFK	train
+guineapig__Mafk__XP_063090094.1		Mammals	MAFK	train
+hamster__Mafk__XP_005080042.1		Mammals	MAFK	train
+horse__MAFK__XP_023510876.1		Mammals	MAFK	train
+human__MAFK__NP_002351.1		Mammals	MAFK	train
+labMouse__Mafk__NP_034887.1		Mammals	MAFK	train
+marmoset__MAFK__XP_035145692.2		Mammals	MAFK	train
+minkeWhale__MAFK__XP_057385102.1		Mammals	MAFK	train
+nancymaMonkey__MAFK__XP_012326328.2		Mammals	MAFK	train
+oliveBaboon__MAFK__XP_003895698.1		Mammals	MAFK	train
+opossum__MAFK__XP_007498385.1		Mammals	MAFK	train
+pig__MAFK__XP_003124297.1		Mammals	MAFK	train
+platypus__MAFK__XP_001514510.2		Mammals	MAFK	train
+rhesusMacaque__MAFK__XP_028701319.1		Mammals	MAFK	train
+roundleafBat__MAFK__XP_019493117.1		Mammals	MAFK	train
+sacwingedBat__MAFK__XP_066129634.1		Mammals	MAFK	train
+sandRat__Mafk__XP_055454539.1		Mammals	MAFK	train
+sheep__MAFK__XP_027817076.1		Mammals	MAFK	train
+treeShrew__MAFK__TSDBTID.12800.2		Mammals	MAFK	train
+spottedGar__maff__XP_069053156.1		Non-teleost ray-finned fishes	MAFF	train
+spottedGar__mafgb__XP_006635210.2		Non-teleost ray-finned fishes	MAFG	train
+spottedGar__mafk__XP_015215295.1		Non-teleost ray-finned fishes	MAFK	train
+acornWorm__LOC100374666__XP_002732304.1		Nonchordates	MAFS	pred
+americanLobster__LOC121867327__XP_042223182.1		Nonchordates	MAFS	pred
+drosophila__maf-S__NP_001286639.1		Nonchordates	MAFS	pred
+echinoderm__LOC117122320__XP_033123772.1		Nonchordates	MAFS	pred
+hydra__LOC100199133__XP_065651613.1		Nonchordates	MAFS	pred
+hydra__LOC136091351__XP_065674892.1		Nonchordates	MAFS	pred
+octopus__LOC106879026__XP_052827328.1		Nonchordates	MAFS	pred
+plastererBee__LOC122396420__XP_043250725.1		Nonchordates	MAFS	pred
+seaurchin__LOC121422524__XP_041473590.1		Nonchordates	MAFS	pred
+amphioxus__LOC136439868__XP_066291614.1		Protochordates	MAFS	pred
+seaSquirt__LOC120331304__XP_039254309.1		Protochordates	MAFS	pred
+seaSquirt__LOC120347869__XP_039273915.1		Protochordates	MAFS	pred
+vaseTunicate__LOC778757__NP_001071818.1		Protochordates	MAFS	pred
+beardedDragon__MAFF__XP_020643246.1		Squamata (lizards and snakes)	MAFF	train
+brownAnole__MAFF__XP_060633020.1		Squamata (lizards and snakes)	MAFF	train
+cornSnake__MAFF__XP_034259519.1		Squamata (lizards and snakes)	MAFF	train
+garterSnake__MAFF__XP_013910419.1		Squamata (lizards and snakes)	MAFF	train
+greenAnole__maff__XP_003227196.2		Squamata (lizards and snakes)	MAFF	train
+groundBoa__MAFF__XP_063164167.1		Squamata (lizards and snakes)	MAFF	train
+japaneseGecko__MAFF__XP_015274659.1		Squamata (lizards and snakes)	MAFF	train
+python__MAFF__XP_025025777.1		Squamata (lizards and snakes)	MAFF	train
+sandLizard__MAFF__XP_033018043.1		Squamata (lizards and snakes)	MAFF	train
+beardedDragon__MAFG__XP_020670010.1		Squamata (lizards and snakes)	MAFG	train
+brownAnole__MAFG__XP_060620842.1		Squamata (lizards and snakes)	MAFG	train
+cornSnake__MAFG__XP_034268786.1		Squamata (lizards and snakes)	MAFG	train
+garterSnake__MAFG__XP_013916963.1		Squamata (lizards and snakes)	MAFG	train
+greenAnole__mafg__XP_008102792.1		Squamata (lizards and snakes)	MAFG	train
+groundBoa__MAFG__XP_063149356.1		Squamata (lizards and snakes)	MAFG	train
+japaneseGecko__MAFG__XP_015275850.1		Squamata (lizards and snakes)	MAFG	train
+python__MAFG__XP_007427839.1		Squamata (lizards and snakes)	MAFG	train
+sandLizard__MAFG__XP_032994994.1		Squamata (lizards and snakes)	MAFG	train
+beardedDragon__MAFK__XP_020659950.1		Squamata (lizards and snakes)	MAFK	train
+brownAnole__LOC132782144__XP_060642834.2		Squamata (lizards and snakes)	MAFK	train
+brownAnole__LOC137095487__XP_067318314.1		Squamata (lizards and snakes)	MAFK	train
+cornSnake__MAFK__XP_034297459.1		Squamata (lizards and snakes)	MAFK	train
+garterSnake__MAFK__XP_013916685.1		Squamata (lizards and snakes)	MAFK	train
+greenAnole__mafk__XP_008116599.1		Squamata (lizards and snakes)	MAFK	train
+groundBoa__MAFK__XP_063170913.1		Squamata (lizards and snakes)	MAFK	train
+japaneseGecko__MAFK__XP_015276628.1		Squamata (lizards and snakes)	MAFK	train
+python__MAFK__XP_007442315.1		Squamata (lizards and snakes)	MAFK	train
+sandLizard__MAFK__XP_033022525.1		Squamata (lizards and snakes)	MAFK	train
+americanEel__maff__XP_064179947.1		Teleost ray-finned fishes	MAFF	train
+channelCatfish__maff__XP_017339225.1		Teleost ray-finned fishes	MAFF	train
+cod__LOC115531400__XP_074930269.1		Teleost ray-finned fishes	MAFF	train
+flavescentPeacockFish__LOC115798469__XP_074930552.1		Teleost ray-finned fishes	MAFF	train
+giltheadBream__maff__XP_030257020.1		Teleost ray-finned fishes	MAFF	train
+grassCarp__maff__XP_051771291.1		Teleost ray-finned fishes	MAFF	train
+northernPike__maff__XP_010893859.1		Teleost ray-finned fishes	MAFF	train
+oceanJacket__maff__XP_075890875.1		Teleost ray-finned fishes	MAFF	train
+oldwife__maff__XP_070783430.1		Teleost ray-finned fishes	MAFF	train
+piranha__maff__XP_017560970.1		Teleost ray-finned fishes	MAFF	train
+snakeheadFish__maff__XP_067343664.1		Teleost ray-finned fishes	MAFF	train
+tuna__maff__XP_044193825.1		Teleost ray-finned fishes	MAFF	train
+yangtzeCatfish__maff__XP_046709373.1		Teleost ray-finned fishes	MAFF	train
+zebrafish__maff__NP_956630.1		Teleost ray-finned fishes	MAFF	train
+americanEel__LOC135243176__XP_064170866.1		Teleost ray-finned fishes	MAFG	train
+americanEel__mafgb__XP_064180937.1		Teleost ray-finned fishes	MAFG	train
+channelCatfish__mafga__XP_053530046.1		Teleost ray-finned fishes	MAFG	train
+channelCatfish__mafgb__XP_017333948.1		Teleost ray-finned fishes	MAFG	train
+cod__LOC115539323__XP_030206232.1		Teleost ray-finned fishes	MAFG	train
+cod__mafgb__XP_030208298.1		Teleost ray-finned fishes	MAFG	train
+flavescentPeacockFish__LOC115785214__XP_030592582.1		Teleost ray-finned fishes	MAFG	train
+flavescentPeacockFish__mafgb__XP_030592808.1		Teleost ray-finned fishes	MAFG	train
+giltheadBream__LOC115576097__XP_030264467.1		Teleost ray-finned fishes	MAFG	train
+giltheadBream__mafgb__XP_030252038.1		Teleost ray-finned fishes	MAFG	train
+grassCarp__mafga__XP_051743368.1		Teleost ray-finned fishes	MAFG	train
+grassCarp__mafgb__XP_051767641.1		Teleost ray-finned fishes	MAFG	train
+northernPike__LOC105013039__XP_010872589.1		Teleost ray-finned fishes	MAFG	train
+northernPike__mafgb__XP_028978188.1		Teleost ray-finned fishes	MAFG	train
+oceanJacket__LOC142886990__XP_075880409.1		Teleost ray-finned fishes	MAFG	train
+oceanJacket__mafgb__XP_075895695.1		Teleost ray-finned fishes	MAFG	train
+oldwife__LOC139300464__XP_070779677.1		Teleost ray-finned fishes	MAFG	train
+oldwife__mafgb__XP_070778961.1		Teleost ray-finned fishes	MAFG	train
+piranha__mafga__XP_017569580.1		Teleost ray-finned fishes	MAFG	train
+piranha__mafgb__XP_037400945.1		Teleost ray-finned fishes	MAFG	train
+snakeheadFish__LOC137099843__XP_067333265.1		Teleost ray-finned fishes	MAFG	train
+snakeheadFish__mafgb__XP_067354826.1		Teleost ray-finned fishes	MAFG	train
+tuna__LOC122966582__XP_044186748.1		Teleost ray-finned fishes	MAFG	train
+tuna__mafgb__XP_044202054.1		Teleost ray-finned fishes	MAFG	train
+yangtzeCatfish__mafga__XP_046721846.1		Teleost ray-finned fishes	MAFG	train
+yangtzeCatfish__mafgb__XP_046713108.1		Teleost ray-finned fishes	MAFG	train
+zebrafish__mafga__XP_021325832.2		Teleost ray-finned fishes	MAFG	train
+zebrafish__mafgb__XP_005169479.2		Teleost ray-finned fishes	MAFG	train
+americanEel__LOC135248174__XP_064178562.1		Teleost ray-finned fishes	MAFK	train
+americanEel__mafk__XP_064171238.1		Teleost ray-finned fishes	MAFK	train
+channelCatfish__mafk__XP_017310124.1		Teleost ray-finned fishes	MAFK	train
+cod__mafk__XP_030206167.1		Teleost ray-finned fishes	MAFK	train
+flavescentPeacockFish__mafk__XP_030591848.1		Teleost ray-finned fishes	MAFK	train
+giltheadBream__mafk__XP_030264057.1		Teleost ray-finned fishes	MAFK	train
+grassCarp__mafk__XP_051742255.1		Teleost ray-finned fishes	MAFK	train
+northernPike__mafk__XP_010872892.1		Teleost ray-finned fishes	MAFK	train
+oceanJacket__mafk__XP_075894952.1		Teleost ray-finned fishes	MAFK	train
+oldwife__mafk__XP_070778581.1		Teleost ray-finned fishes	MAFK	train
+piranha__mafk__XP_017562994.1		Teleost ray-finned fishes	MAFK	train
+snakeheadFish__mafk__XP_067332667.1		Teleost ray-finned fishes	MAFK	train
+tuna__mafk__XP_044186196.1		Teleost ray-finned fishes	MAFK	train
+yangtzeCatfish__mafk__XP_046690455.1		Teleost ray-finned fishes	MAFK	train
+zebrafish__mafk__XP_005164260.1		Teleost ray-finned fishes	MAFK	train
+greenTurtle__MAFF__XP_043399227.1		Turtles	MAFF	train
+redTurtle__MAFF__XP_034632554.1		Turtles	MAFF	train
+greenTurtle__MAFG__XP_037770029.1		Turtles	MAFG	train
+redTurtle__MAFG__XP_034645930.1		Turtles	MAFG	train
+greenTurtle__MAFK__XP_007065416.2		Turtles	MAFK	train
+redTurtle__MAFK__XP_034638928.1		Turtles	MAFK	train
