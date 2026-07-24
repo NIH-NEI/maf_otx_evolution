@@ -1,0 +1,4 @@
+samples_file: /data/pals2/eye_evolution/code/resources/samples_table.tsv
+denovo_dir: /data/VisionEvo/NNRL_sequenced_retinal_transcriptomes/Analysis/Denovo_assemblies-incomplete/Nucleotide_All
+trimmed_dir: /data/VisionEvo/NNRL_sequenced_retinal_transcriptomes/trimmed_fastqs
+ncbi_downloads_dir: /data/VisionEvo/DownloadFromNCBI

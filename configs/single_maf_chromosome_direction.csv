@@ -1,0 +1,7 @@
+species,mafa,mafb,cmaf,nrl,maff,mafg,mafk,otx1,otx2,crx
+human,1,1,1,1,1,1,1,1,1,1
+opossum,-1,-1,-1,1,1,-1,-1,1,1,1
+mouse,1,1,1,1,1,1,1,1,1,1
+chicken,1,1,1,1,-1,1,1,1,1,1
+frog,1,1,-1,1,1,1,1,1,1,1
+gar,1,-1,1,0,0,1,1,1,1,1

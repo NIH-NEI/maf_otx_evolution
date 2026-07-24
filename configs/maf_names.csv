@@ -1,0 +1,11 @@
+maftype,mafname,human,opossum,mouse,chicken,frog,gar,pike
+large,mafa,MAFA,MAFA,Mafa,MAFA,mafa,mafa,mafa
+large,mafb,MAFB,MAFB,Mafb,MAFB,mafb,mafb,mafba
+large,cmaf,MAF,MAF,Maf,MAF,maf,maf,
+large,nrl,NRL,NRL,Nrl,,nrl,,nrl
+small,maff,MAFF,MAFF,Maff,MAFF,maff,,maff
+small,mafg,MAFG,MAFG,Mafg,MAFG,mafg,mafg,mafgb
+small,mafk,MAFK,MAFK,Mafk,MAFK,mafk,mafk,mafk
+otx,otx1,OTX1,OTX1,Otx1,OTX1,otx1,otx1,otx1
+otx,otx2,OTX2,OTX2,Otx2,OTX2,otx2,otx2b,otx2b
+otx,crx,CRX,CRX,Crx,OTX5,crx,LOC102686928,crx

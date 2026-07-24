@@ -20,7 +20,6 @@ samples = (
 #print(samples)
 
 organisms = organisms.set_index("OrganismShortName", drop = False)
-#print(organisms.query("OrganismShortName.str.contains('Owl')"))
 
 rule all:
     input:

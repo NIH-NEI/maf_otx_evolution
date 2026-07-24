@@ -1,0 +1,8 @@
+MAF|MAF bZIP transcription factor, transcript variant X3|MAF
+LOC116944233|transcription factor Maf-like|MAF-2
+LOC116937777|transcription factor Maf-like, transcript variant X1|MAF-1
+LOC116953913|transcription factor Maf-like|MAF-3
+LOC116954108|transcription factor MafB-like|MAFB
+LOC116955192|transcription factor MafF-like|MAFF
+LOC116956089|transcription factor Maf-like|MAF-4
+LOC116958264|transcription factor MafK-like|MAFK
